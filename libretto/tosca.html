@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classical Libretto Translations</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #FAF8F5; /* Soft off-white for comfortable reading */
+            color: #2C2C2C;
+            font-family: 'Lora', serif;
+            line-height: 1.8;
+        }
+        
+        h1, h2, h3, .character-name {
+            font-family: 'Playfair Display', serif;
+        }
+
+        .character-name {
+            font-variant: small-caps;
+            letter-spacing: 0.05em;
+        }
+
+        /* The main grid structure ensures line-by-line alignment */
+        .libretto-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 2rem;
+            row-gap: 0.5rem;
+            align-items: start;
+        }
+
+        /* Adjust for smaller screens: slightly smaller font but keep side-by-side */
+        @media (max-width: 640px) {
+            .libretto-grid {
+                column-gap: 1rem;
+                font-size: 0.9rem;
+            }
+        }
+
+        .stage-direction {
+            font-style: italic;
+            color: #5a5a5a;
+        }
+
+        /* Clickable notes styling */
+        .note-trigger {
+            cursor: pointer;
+            border-bottom: 1.5px dotted #8B0000;
+            transition: background-color 0.2s ease, color 0.2s ease;
+            position: relative;
+        }
+
+        .note-trigger:hover {
+            background-color: rgba(139, 0, 0, 0.1);
+            color: #8B0000;
+        }
+
+        .note-trigger.active {
+            background-color: #8B0000;
+            color: white;
+            border-bottom-color: transparent;
+        }
+
+        /* Tooltip styling */
+        #tooltip {
+            position: absolute;
+            z-index: 50;
+            max-width: 300px;
+            background-color: #2C2C2C;
+            color: #FAF8F5;
+            padding: 1rem;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            font-family: 'Inter', sans-serif; /* Clean sans-serif for UI */
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(10px);
+            transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+            pointer-events: none; /* Prevent tooltip from blocking clicks */
+        }
+
+        #tooltip.show {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+
+        /* Little triangle arrow for the tooltip */
+        #tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -8px;
+            border-width: 8px;
+            border-style: solid;
+            border-color: #2C2C2C transparent transparent transparent;
+        }
+
+        #tooltip.arrow-top::after {
+            top: -16px;
+            border-color: transparent transparent #2C2C2C transparent;
+        }
+    </style>
+</head>
+<body class="antialiased min-h-screen">
+
+    <header class="max-w-4xl mx-auto px-6 py-12 text-center border-b border-gray-300">
+        <h1 class="text-4xl md:text-5xl font-bold mb-4 text-[#1a1a1a]">Don Giovanni</h1>
+        <h2 class="text-xl md:text-2xl text-gray-600 italic mb-6">Wolfgang Amadeus Mozart</h2>
+        <p class="text-sm md:text-base max-w-2xl mx-auto text-gray-500">
+            Act 1, Scene 1. Leporello, Don Giovanni's servant, is pacing outside the Commendatore's house. 
+            Click on the <span class="border-bottom border-dotted border-red-800 text-red-800">highlighted words</span> to read translation notes.
+        </p>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-4 md:px-8 py-12">
+        
+        <!-- Column Headers -->
+        <div class="libretto-grid font-bold text-gray-400 uppercase tracking-widest text-xs mb-8 border-b border-gray-300 pb-2">
+            <div class="text-right pr-4">Italiano (Originale)</div>
+            <div class="text-left pl-4">English (Translation)</div>
+        </div>
+
+        <div class="libretto-grid">
+            
+            <!-- Scene Setting -->
+            <div class="stage-direction text-right pr-4 mb-6">
+                (Notte. Giardino. Leporello con mantello e lanterna, attendendo Don Giovanni.)
+            </div>
+            <div class="stage-direction text-left pl-4 mb-6">
+                (Night. A garden. Leporello with a cloak and a lantern, waiting for Don Giovanni.)
+            </div>
+
+            <!-- Character Name -->
+            <div class="character-name text-center col-span-2 text-xl font-bold mt-4 mb-2 text-[#8B0000]">
+                Leporello
+            </div>
+
+            <!-- Line 1 -->
+            <div class="text-right pr-4">Notte e giorno <span class="note-trigger" data-note="From 'faticare' (to toil, sweat, work hard). Mozart's driving rhythm here mimics the exhaustion of constant physical labor.">faticar</span>,</div>
+            <div class="text-left pl-4">Toiling night and day,</div>
+
+            <!-- Line 2 -->
+            <div class="text-right pr-4">per chi nulla sa gradir;</div>
+            <div class="text-left pl-4">for one who appreciates nothing;</div>
+
+            <!-- Line 3 -->
+            <div class="text-right pr-4">piova e vento sopportar,</div>
+            <div class="text-left pl-4">bearing rain and wind,</div>
+
+            <!-- Line 4 -->
+            <div class="text-right pr-4">mangiar male e mal dormir...</div>
+            <div class="text-left pl-4">eating badly and sleeping badly...</div>
+
+            <!-- Line 5 -->
+            <div class="text-right pr-4 mt-4">Voglio far il <span class="note-trigger" data-note="Literally 'gentleman'. Leporello's desire to rise above his servant class is a key theme of the opera, reflecting the revolutionary sentiments brewing in late 18th-century Europe.">gentiluomo</span>,</div>
+            <div class="text-left pl-4 mt-4">I want to play the gentleman,</div>
+
+            <!-- Line 6 -->
+            <div class="text-right pr-4">e non voglio più <span class="note-trigger" data-note="'Servir' (to serve) is emphatically placed. Leporello's frustration sets the comedic but socially tense tone of the opening.">servir</span>.</div>
+            <div class="text-left pl-4">and I don't want to serve anymore.</div>
+            
+            <!-- Line 7 -->
+            <div class="text-right pr-4">e non voglio più servir, no, no, no,</div>
+            <div class="text-left pl-4">and I don't want to serve anymore, no, no, no,</div>
+            
+            <!-- Line 8 -->
+            <div class="text-right pr-4 mb-6">non voglio più servir!</div>
+            <div class="text-left pl-4 mb-6">I don't want to serve anymore!</div>
+
+            <!-- Line 9 -->
+            <div class="text-right pr-4">Oh che caro galantuomo!</div>
+            <div class="text-left pl-4">Oh, what a fine gentleman!</div>
+
+            <!-- Line 10 -->
+            <div class="text-right pr-4">Vuol star dentro colla bella,</div>
+            <div class="text-left pl-4">He wants to stay inside with the beauty,</div>
+
+            <!-- Line 11 -->
+            <div class="text-right pr-4">ed io far la <span class="note-trigger" data-note="A lookout or guard. Leporello is forced to stand watch outside while his master seduces Donna Anna.">sentinella</span>!</div>
+            <div class="text-left pl-4">and I play the sentinel!</div>
+
+        </div>
+    </main>
+
+    <div id="tooltip" role="tooltip" aria-hidden="true"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const tooltip = document.getElementById('tooltip');
+            const triggers = document.querySelectorAll('.note-trigger');
+            let activeTrigger = null;
+
+            // Function to position and show the tooltip
+            const showTooltip = (trigger) => {
+                // If there's an active trigger, remove its active state
+                if (activeTrigger && activeTrigger !== trigger) {
+                    activeTrigger.classList.remove('active');
+                }
+
+                activeTrigger = trigger;
+                trigger.classList.add('active');
+                
+                const noteText = trigger.getAttribute('data-note');
+                tooltip.textContent = noteText;
+                
+                // Make visible to calculate dimensions
+                tooltip.classList.add('show');
+                
+                const triggerRect = trigger.getBoundingClientRect();
+                const tooltipRect = tooltip.getBoundingClientRect();
+                
+                const scrollY = window.scrollY || window.pageYOffset;
+                const scrollX = window.scrollX || window.pageXOffset;
+
+                // Default positioning: above the text
+                let top = triggerRect.top + scrollY - tooltipRect.height - 12;
+                let left = triggerRect.left + scrollX + (triggerRect.width / 2) - (tooltipRect.width / 2);
+
+                // Reset arrow classes
+                tooltip.classList.remove('arrow-top');
+
+                // Check if tooltip goes above the top of the viewport
+                if (triggerRect.top - tooltipRect.height - 12 < 0) {
+                    // Position below the text instead
+                    top = triggerRect.bottom + scrollY + 12;
+                    tooltip.classList.add('arrow-top');
+                }
+
+                // Check horizontal bounds
+                const viewportWidth = window.innerWidth;
+                if (left < 10) {
+                    left = 10; // Keep 10px margin from left edge
+                } else if (left + tooltipRect.width > viewportWidth - 10) {
+                    left = viewportWidth - tooltipRect.width - 10; // Keep 10px margin from right edge
+                }
+
+                tooltip.style.top = `${top}px`;
+                tooltip.style.left = `${left}px`;
+            };
+
+            const hideTooltip = () => {
+                tooltip.classList.remove('show');
+                if (activeTrigger) {
+                    activeTrigger.classList.remove('active');
+                    activeTrigger = null;
+                }
+            };
+
+            // Attach click listeners to all note triggers
+            triggers.forEach(trigger => {
+                trigger.addEventListener('click', (e) => {
+                    e.stopPropagation(); // Prevent document click listener from immediately firing
+                    if (activeTrigger === trigger) {
+                        hideTooltip();
+                    } else {
+                        showTooltip(trigger);
+                    }
+                });
+            });
+
+            // Close tooltip when clicking anywhere else on the page
+            document.addEventListener('click', (e) => {
+                if (activeTrigger && e.target !== tooltip) {
+                    hideTooltip();
+                }
+            });
+
+            // Hide tooltip on scroll for better UX
+            window.addEventListener('scroll', () => {
+                if (activeTrigger) {
+                    hideTooltip();
+                }
+            }, { passive: true });
+            
+            // Recalculate on window resize
+            window.addEventListener('resize', () => {
+                 if (activeTrigger) {
+                    hideTooltip();
+                 }
+            });
+        });
+    </script>
+</body>
+</html>
