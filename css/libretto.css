@@ -1,17 +1,90 @@
-body {
-    background-color: #FAF8F5; /* Soft off-white for comfortable reading */
-    color: #2C2C2C;
-    font-family: 'Lora', serif;
-    line-height: 1.8;
+/* ============================================================
+   Libretto — shared stylesheet
+   Two-column, line-by-line libretti with clickable notes.
+
+   Markup contract (see libretto/_tosca.html):
+     .libretto-header   title block at the top of the page
+     .libretto-body     content wrapper
+     .libretto-grid     two-column grid; children are laid out in
+                        pairs: .original then .translation
+     .column-headers    the "Italiano / English" labels
+     .act-header        full-width act heading
+     .section-header    full-width scene heading
+     .character-name    full-width speaker label
+     .stage-direction   italic direction (combined with a column class)
+     .line-gap          full-width blank line between stanzas
+     .note-trigger      inline, clickable translation note
+   ============================================================ */
+
+:root {
+    --paper: #FAF8F5; /* Soft off-white for comfortable reading */
+    --ink: #2C2C2C;
+    --ink-strong: #1a1a1a;
+    --ink-soft: #5a5a5a;
+    --ink-faint: #8a8a8a;
+    --accent: #8B0000;
+    --rule: #D7D2CB;
 }
 
-h1, h2, h3, .character-name {
+/* --- Page ------------------------------------------------------ */
+
+body {
+    background-color: var(--paper);
+    color: var(--ink);
+    font-family: 'Lora', serif;
+    line-height: 1.8;
+    margin: 0;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3,
+.character-name,
+.act-header,
+.section-header {
     font-family: 'Playfair Display', serif;
 }
 
-.character-name {
-    font-variant: small-caps;
-    letter-spacing: 0.05em;
+/* --- Title block ----------------------------------------------- */
+
+.libretto-header {
+    max-width: 56rem;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+    text-align: center;
+    border-bottom: 1px solid var(--rule);
+}
+
+.opera-title {
+    margin: 0 0 1rem;
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--ink-strong);
+}
+
+.opera-composer {
+    margin: 0 0 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--ink-soft);
+}
+
+.opera-note {
+    max-width: 42rem;
+    margin: 0 auto;
+    font-size: 1rem;
+    color: var(--ink-faint);
+}
+
+/* --- Content wrapper ------------------------------------------- */
+
+.libretto-body {
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 3rem 2rem;
 }
 
 /* The main grid structure ensures line-by-line alignment */
@@ -23,48 +96,131 @@ h1, h2, h3, .character-name {
     align-items: start;
 }
 
-/* Adjust for smaller screens: slightly smaller font but keep side-by-side */
-@media (max-width: 640px) {
-    .libretto-grid {
-        column-gap: 1rem;
-        font-size: 0.9rem;
-    }
+/* The two text columns face each other across the gutter */
+.original {
+    text-align: right;
+    padding-right: 1rem;
 }
+
+.translation {
+    text-align: left;
+    padding-left: 1rem;
+}
+
+.column-headers {
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+}
+
+/* --- Full-width headings --------------------------------------- */
+
+/* Act header: the strongest break in the text */
+.act-header {
+    grid-column: 1 / -1;
+    margin: 3.5rem 0 2rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--ink-strong);
+}
+
+/* Scene header: a lighter version of the same idea */
+.section-header {
+    grid-column: 1 / -1;
+    margin: 2.5rem 0 1.25rem;
+    text-align: center;
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+}
+
+/* First heading on the page shouldn't push the text down */
+.libretto-grid > .act-header:first-child,
+.libretto-grid > .section-header:first-child {
+    margin-top: 0;
+}
+
+/* The heading in the other language, on its own line underneath */
+.act-header .alt,
+.section-header .alt,
+.character-name .alt {
+    display: block;
+    font-size: 0.75em;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    color: var(--ink-faint);
+}
+
+.character-name {
+    grid-column: 1 / -1;
+    margin: 1.75rem 0 0.25rem;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+}
+
+/* --- Lines ----------------------------------------------------- */
 
 .stage-direction {
     font-style: italic;
-    color: #5a5a5a;
+    color: var(--ink-soft);
 }
 
-/* Clickable notes styling */
+/* Blank line separating stanzas or speeches */
+.line-gap {
+    grid-column: 1 / -1;
+    height: 1.25rem;
+}
+
+/* --- Clickable notes ------------------------------------------- */
+
 .note-trigger {
     cursor: pointer;
-    border-bottom: 1.5px dotted #8B0000;
+    border-bottom: 1.5px dotted var(--accent);
     transition: background-color 0.2s ease, color 0.2s ease;
     position: relative;
 }
 
 .note-trigger:hover {
     background-color: rgba(139, 0, 0, 0.1);
-    color: #8B0000;
+    color: var(--accent);
 }
 
 .note-trigger.active {
-    background-color: #8B0000;
+    background-color: var(--accent);
     color: white;
     border-bottom-color: transparent;
 }
 
-/* Tooltip styling */
+/* --- Tooltip --------------------------------------------------- */
+
 #tooltip {
     position: absolute;
     z-index: 50;
     max-width: 300px;
-    background-color: #2C2C2C;
-    color: #FAF8F5;
+    background-color: var(--ink);
+    color: var(--paper);
     padding: 1rem;
     border-radius: 8px;
     font-size: 0.95rem;
+    line-height: 1.6;
     font-family: 'Inter', sans-serif; /* Clean sans-serif for UI */
     box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
     opacity: 0;
@@ -90,10 +246,56 @@ h1, h2, h3, .character-name {
     margin-left: -8px;
     border-width: 8px;
     border-style: solid;
-    border-color: #2C2C2C transparent transparent transparent;
+    border-color: var(--ink) transparent transparent transparent;
 }
 
 #tooltip.arrow-top::after {
     top: -16px;
-    border-color: transparent transparent #2C2C2C transparent;
+    border-color: transparent transparent var(--ink) transparent;
+}
+
+/* --- Small screens --------------------------------------------- */
+/* Slightly smaller font, but keep the two columns side by side */
+
+@media (max-width: 640px) {
+    .libretto-grid {
+        column-gap: 1rem;
+        font-size: 0.9rem;
+    }
+
+    .original {
+        padding-right: 0.5rem;
+    }
+
+    .translation {
+        padding-left: 0.5rem;
+    }
+
+    .libretto-header {
+        padding: 2rem 1rem;
+    }
+
+    .libretto-body {
+        padding: 2rem 1rem;
+    }
+
+    .opera-title {
+        font-size: 2.25rem;
+    }
+
+    .opera-composer {
+        font-size: 1.25rem;
+    }
+
+    .opera-note {
+        font-size: 0.875rem;
+    }
+
+    .act-header {
+        font-size: 1.15rem;
+    }
+
+    .character-name {
+        font-size: 1.1rem;
+    }
 }

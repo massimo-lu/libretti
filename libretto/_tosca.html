@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classical Libretto Translations</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    <!-- Link to the external CSS -->
+    <link rel="stylesheet" href="../css/libretto.css">
+    <!-- Link to the external JS (the 'defer' attribute makes it load at the right time) -->
+    <script src="../js/libretto.js" defer></script>
+</head>
+<body>
+
+    <header class="libretto-header">
+        <h1 class="opera-title">Don Giovanni</h1>
+        <h2 class="opera-composer">Wolfgang Amadeus Mozart</h2>
+        <p class="opera-note">
+            Click on the <span class="note-trigger">highlighted words</span> to read translation notes.
+        </p>
+    </header>
+
+    <main class="libretto-body">
+
+        <!-- Column Headers -->
+        <div class="libretto-grid column-headers">
+            <div class="original">Italiano (Originale)</div>
+            <div class="translation">English (Translation)</div>
+        </div>
+
+        <div class="libretto-grid">
+
+            <!-- Act Header -->
+            <div class="act-header">Atto Primo<span class="alt">Act One</span></div>
+
+            <!-- Scene Setting -->
+            <div class="original stage-direction">
+                (Notte. Giardino. Leporello con mantello e lanterna, attendendo Don Giovanni.)
+            </div>
+            <div class="translation stage-direction">
+                (Night. A garden. Leporello with a cloak and a lantern, waiting for Don Giovanni.)
+            </div>
+
+            <!-- Character Name -->
+            <div class="character-name">Leporello</div>
+
+            <!-- Line 1 -->
+            <div class="original">Notte e giorno <span class="note-trigger" data-note="From 'faticare' (to toil, sweat, work hard). Mozart's driving rhythm here mimics the exhaustion of constant physical labor.">faticar</span>,</div>
+            <div class="translation">Toiling night and day,</div>
+
+            <!-- Line 2 -->
+            <div class="original">per chi nulla sa gradir;</div>
+            <div class="translation">for one who appreciates nothing;</div>
+
+            <!-- Line 3 -->
+            <div class="original">piova e vento sopportar,</div>
+            <div class="translation">bearing rain and wind,</div>
+
+            <!-- Line 4 -->
+            <div class="original">mangiar male e mal dormir...</div>
+            <div class="translation">eating badly and sleeping badly...</div>
+
+            <div class="line-gap"></div>
+
+            <!-- Line 5 -->
+            <div class="original">Voglio far il <span class="note-trigger" data-note="Literally 'gentleman'. Leporello's desire to rise above his servant class is a key theme of the opera, reflecting the revolutionary sentiments brewing in late 18th-century Europe.">gentiluomo</span>,</div>
+            <div class="translation">I want to play the gentleman,</div>
+
+            <!-- Line 6 -->
+            <div class="original">e non voglio più <span class="note-trigger" data-note="'Servir' (to serve) is emphatically placed. Leporello's frustration sets the comedic but socially tense tone of the opening.">servir</span>.</div>
+            <div class="translation">and I don't want to serve anymore.</div>
+
+            <!-- Line 7 -->
+            <div class="original">e non voglio più servir, no, no, no,</div>
+            <div class="translation">and I don't want to serve anymore, no, no, no,</div>
+
+            <!-- Line 8 -->
+            <div class="original">non voglio più servir!</div>
+            <div class="translation">I don't want to serve anymore!</div>
+
+            <div class="line-gap"></div>
+
+            <!-- Line 9 -->
+            <div class="original">Oh che caro galantuomo!</div>
+            <div class="translation">Oh, what a fine gentleman!</div>
+
+            <!-- Line 10 -->
+            <div class="original">Vuol star dentro colla bella,</div>
+            <div class="translation">He wants to stay inside with the beauty,</div>
+
+            <!-- Line 11 -->
+            <div class="original">ed io far la <span class="note-trigger" data-note="A lookout or guard. Leporello is forced to stand watch outside while his master seduces Donna Anna.">sentinella</span>!</div>
+            <div class="translation">and I play the sentinel!</div>
+
+        </div>
+    </main>
+
+    <div id="tooltip" role="tooltip" aria-hidden="true"></div>
+
+</body>
+</html>
