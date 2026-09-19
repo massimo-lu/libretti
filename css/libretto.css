@@ -2,7 +2,7 @@
    Libretto — shared stylesheet
    Two-column, line-by-line libretti with clickable notes.
 
-   Markup contract (see libretto/_tosca.html):
+   Markup contract (see libretto/tosca.html):
      .libretto-header   title block at the top of the page
      .libretto-body     content wrapper
      .libretto-grid     two-column grid; children are laid out in
@@ -143,6 +143,33 @@ h1, h2, h3,
     font-weight: 600;
     letter-spacing: 0.08em;
     color: var(--ink-soft);
+}
+
+/* Image container: image spans across both columns */
+.image-container {
+  grid-column: 1 / -1;
+  text-align: center;
+}
+
+.image-wrapper {
+  width: 100%;
+  aspect-ratio: 2.5 / 1; /* wider and shorter than 16:9 */
+  overflow: hidden;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 10px;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
 }
 
 /* First heading on the page shouldn't push the text down */
