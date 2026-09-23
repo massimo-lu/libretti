@@ -41,7 +41,6 @@ Et Verbum caro factum est,
 Et habitavit in nobis...
 
 SCENA TERZA
-Cavaradossi - Sagrestano.
 
 CAVARADOSSI
 (dalla porta laterale, vedendo il Sagrestano in ginocchio)
@@ -71,20 +70,20 @@ ch'io ne pinsi, non visto, il bel sembiante.
 
 SAGRESTANO
 (scandalizzato)
-(Fuori, Satana, fuori!)
+Fuori, Satana, fuori!
 
 CAVARADOSSI
 (al Sagrestano)
 Dammi i colori!
 (Il Sagrestano eseguisce. Cavaradossi dipinge con rapidità e si sofferma spesso a riguardare il proprio lavoro: il Sagrestano va e viene, portando una catinella entro la quale continua a lavare i pennelli. A un tratto Cavaradossi si ristà di dipingere; leva di tasca un medaglione contenente una miniatura e gli occhi suoi vanno dal medaglione al quadro.)
-Recondita armonia
+[Recondita|From Latin recondĭtus: hidden away, deeply inaccessible, as of thoughts or truths. Higher register than "nascosto" (hidden)] armonia
 di bellezze diverse!...
 È bruna Floria,
 l'ardente amante mia...
 
 SAGRESTANO
 (a mezza voce, come brontolando)
-Scherza coi fanti e lascia stare i santi!
+[Scherza coi fanti e lascia stare i santi!|Rhyminig proverb meaning "do not mix sacred and profane". In this case, the image of Mary Magdalene and the real tempting beauties of this world.]
 (s'allontana per prendere l'acqua onde pulire i pennelli)
 
 CAVARADOSSI
@@ -106,7 +105,7 @@ il mio solo pensiero, Tosca, sei tu!
 (continua a dipingere)
 
 SAGRESTANO
-Queste diverse gonne
+Queste diverse [gonne|Literally "skirts", to rhyme with Madonne, but also to evoke a more carnal image]
 che fanno concorrenza alle Madonne
 mandan tanfo d'Inferno.
 (asciuga i pennelli lavati, non senza continuare a borbottare)
@@ -146,10 +145,9 @@ Va!...
 
 SAGRESTANO
 Vo!
-(s'allontana per il fondo Cavaradossi, volgendo le spalle alla Cappella, lavora. Angelotti, credendo deserta la chiesa, appare dietro la cancellata e introduce la chiave per aprire.)
+(s'allontana per il fondo. Cavaradossi, volgendo le spalle alla Cappella, lavora. Angelotti, credendo deserta la chiesa, appare dietro la cancellata e introduce la chiave per aprire.)
 
 SCENA QUARTA
-(Cavaradossi - Angelotti)
 
 CAVARADOSSI
 (al cigolio della serratura si volta)
@@ -212,7 +210,6 @@ Presto!
 (Angelotti entra nella Cappella.)
 
 SCENA QUINTA
-Cavaradossi - Tosca.
 
 VOCE DI TOSCA
 (chiamando ripetutamente stizzita)
@@ -245,7 +242,7 @@ Chi?
 TOSCA
 Colei!... Quella donna!...
 Ho udito i lesti
-passi ed un fruscio di vesti...
+passi ed un fruscio di [vesti|Note the seqence of fricative sounds - lesti, passi, fruscio, vesti - and the rhyme]...
 
 CAVARADOSSI
 Sogni!
@@ -274,7 +271,7 @@ Stasera!
 
 TOSCA
 È luna piena
-e il notturno effluvio floreal
+e il notturno [effluvio|from Latin effluĕre, flowing out] floreal
 inebria il cor! - Non sei contento?
 (si siede sulla gradinata presso a Cavaradossi)
 
@@ -294,7 +291,7 @@ TOSCA
 Lo dici male:
 Non la sospiri la nostra casetta
 che tutta ascosa nel verde ci aspetta?
-Nido a noi sacro, ignoto al mondo inter,
+Nido [a noi sacro, ignoto al mondo|The chiasmus (to us sacred, unknown to the world) introduces Tosca's poem] intero,
 pien d'amore e di mister?
 Al tuo fianco sentire
 per le silenziose
@@ -303,7 +300,7 @@ le voci delle cose!...
 Dai boschi e dai roveti,
 dall'arse erbe, dall'imo
 dei franti sepolcreti
-odorosi di timo,
+odorosi di [timo|Rhyming scheme ABAB (roveti, imo, sepolcreti, timo), then CDCD below],
 la notte escon bisbigli
 di minuscoli amori
 e perfidi consigli
@@ -385,7 +382,7 @@ CAVARADOSSI
 Vien via!
 
 TOSCA
-Ah, la civetta!
+Ah, la [civetta|Literally "little owl", a bird of prey, to describe a flirtacious woman]!
 (minacciosa)
 A me, a me!
 
@@ -417,6 +414,7 @@ Di me beffarda, ride.
 CAVARADOSSI
 Follia!
 (la tiene presso di sé fissandola in viso)
+
 TOSCA
 (con dolce rimprovero)
 Ah, quegli occhi!...
@@ -471,7 +469,7 @@ sempre "t'amo!" ti dirò!
 
 TOSCA
 (sciogliendosi, paurosa d'esser vinta)
-Dio! quante peccata!
+Dio! Quante peccata!
 M'hai tutta spettinata!
 
 CAVARADOSSI
@@ -482,7 +480,7 @@ Tu fino a stassera
 stai fermo al lavoro. E mi prometti:
 sia caso o fortuna,
 sia treccia bionda o bruna,
-a pregar non verrà donna nessuna!
+a pregar non verrà donna [nessuna|Three playful rhyming lines]!
 
 CAVARADOSSI
 Lo giuro, amore!... Va!
@@ -510,7 +508,6 @@ Ma falle gli occhi neri!...
 (fugge rapidamente Cavaradossi rimane commosso e pensieroso)
 
 SCENA SESTA
-(Cavaradossi - Angelotti)
 
 (Appena uscita Tosca, Cavaradossi sta ascoltandone i passi allontanarsi, poi con precauzione socchiude l'uscio e guarda fuori. Visto tutto tranquillo, corre alla Cappella. Angelotti appare subito dietro la cancellata.)
 
@@ -559,7 +556,7 @@ CAVARADOSSI
 Scarpia?! Bigotto satiro che affina
 colle devote pratiche
 la foia libertina
-e strumento al lascivo talento
+e strumento al lascivo [talento|Desire, disposition, etymologically from the Parable of the Talents]
 (con forza crescente)
 fa il confessore e il boia!
 La vita mi costasse, vi salverò!
@@ -828,19 +825,20 @@ né contava pranzar... disse egli stesso.
 Onde l'avea già messo...
 al riparo.
 (mostra dove aveva riposto il paniere e ve lo lascia impressionato dal severo e silente contegno di Scarpia)
-(Libera me Domine!)
+Libera me Domine!
 
 (pausa)
 
 SCARPIA
-(Or tutto è chiaro...
+(a sé)
+Or tutto è chiaro...
 la provvista - del sacrista
-d'Angelotti fu la preda!)
+d'Angelotti fu la preda!
 (scorgendo Tosca che entra nervosissima)
 Tosca? Che non mi veda.
 (appena vista entrare Tosca, si è abilmente nascosto dietro la colonna ov'è la pila dell'acqua benedetta, facendo imperioso cenno di rimanere al Sagrestano; il quale, tremante, imbarazzato, si reca vicino al palco del pittore)
-(Per ridurre un geloso allo sbaraglio
-Jago ebbe un fazzoletto... ed io un ventaglio!...)
+Per ridurre un geloso allo sbaraglio
+Jago ebbe un fazzoletto... ed io un ventaglio!...
 
 SCENA NONA
 (Tosca - Scarpia - Sagrestano)
@@ -928,10 +926,11 @@ La corona! Lo stemma! È l'Attavanti!
 Presago sospetto!...
 
 SCARPIA
-(Ho sortito l'effetto!)
+(a sé)
+Ho sortito l'effetto!
 
 TOSCA
-(con grande sentimento, trattenendo a stento le lagrime, dimentica del luogo e di Scarpia)
+(with deep emotion, barely holding back tears, oblivious to the setting and to Scarpia)
 Ed io venivo a lui tutta dogliosa
 per dirgli: invan stassera,
 il ciel s'infosca...
@@ -941,7 +940,8 @@ l'innamorata Tosca
 (entra un gruppo di pastori e ciociare)
 
 SCARPIA
-(Già il veleno l'ha rosa!)
+(a sé)
+Già il veleno l'ha rosa!
 (mellifluo a Tosca)
 O che v'offende,
 dolce signora?...
@@ -968,7 +968,8 @@ Io qui mi struggo e intanto
 d'altra in braccio le mie smanie deride!
 
 SCARPIA
-(Morde il veleno!)
+(a sé)
+Morde il veleno!
 
 (entrano alcuni borghesi alla spicciolata)
 
@@ -1015,16 +1016,10 @@ Quanta promessa nel tuo pronto sospetto!
 
 (Esce il corteggio che accompagna il Cardinale all'altare maggiore: i soldati svizzeri fanno far largo alla folla, che si dispone su due ali. .Scarpia s'inchina e prega al passaggio del Cardinale. Il Cardinale benedice la folla che reverente s'inchina.)
 
-CAPITOLO
+CORO
 Adjutorum nostrum in nomine Domini
-
-FOLLA
 Qui fecit coelum et terram
-
-CAPITOLO
 Sit nomen Domini benedictum
-
-FOLLA
 Et hoc nunc et usquem in saeculum.
 
 SCARPIA
@@ -1053,9 +1048,12 @@ Tosca, mi fai dimenticare Iddio!
 TUTTI
 Te aeternum Patrem
 omnis terra veneratur!
+
 ATTO SECONDO
-La camera di Scarpia al piano superiore del Palazzo Farnese.
-(Tavola imbandita. Un'ampia finestra verso il cortile del Palazzo. È notte.)
+
+(La camera di Scarpia al piano superiore del Palazzo Farnese. Tavola imbandita. Un'ampia finestra verso il cortile del Palazzo. È notte.)
+
+<img:https://upload.wikimedia.org/wikipedia/commons/d/d8/Francesco_Salviati_-_History_of_the_Farnese_-_WGA20691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled|Palazzo Farnese>
 
 SCENA PRIMA
 
@@ -1089,7 +1087,7 @@ finita la cantata...
 O meglio...
 (si alza e va a scrivere in fretta un biglietto)
 Le darai questo biglietto.
-(Sciarrone esce torna alla tavola e mescendosi da bere dice:)
+(Sciarrone esce. Torna alla tavola e mescendosi da bere dice:)
 Ella verrà... per amor del suo Mario!
 Per amor del suo Mario... al piacer mio
 s'arrenderà. Tal dei profondi amori,
@@ -1121,7 +1119,6 @@ Entri. In buon punto!
 (Sciarrone esce per chiamare Spoletta, che accompagna nella sala, rimanendo poi presso la porta del fondo.)
 
 SCENA SECONDA
-(Scarpia - Spoletta - Sciarrone)
 
 SCARPIA
 (si siede e tutt'occupato a cenare, interroga intanto Spoletta senza guardarlo)
@@ -1129,7 +1126,7 @@ O galantuomo, come andò la caccia?...
 
 SPOLETTA
 (avanzandosi un poco ed impaurito)
-(Sant'Ignazio m'aiuta!)
+Sant'Ignazio m'aiuta!
 Della signora seguimmo la traccia.
 Giunti a un'erma villetta
 tra le fratte perduta...
@@ -1205,9 +1202,10 @@ Varca spazi, varca cieli,
 A te giunge o re dei re.
 
 SCARPIA
-(dunque Tosca è tornata - è là sotto di lui... gli balena un'idea e subito dice a Spoletta:)
+Dunque Tosca è tornata - è là sotto di lui... 
+(gli balena un'idea e subito dice a Spoletta:)
 Introducete il Cavaliere.
-(Spoletta esce a Sciarrone)
+(Spoletta esce. A Sciarrone:)
 A me
 Roberti e il Giudice del Fisco.
 
@@ -1346,14 +1344,16 @@ CAVARADOSSI
 Nol so!
 
 SPOLETTA
-(O bei tratti di corda!)
+(a sé)
+O bei tratti di corda!
 
 SCENA QUARTA
+
 (Tosca, entra affannosa.)
 
 SCARPIA
-(vedendo Tosca)
-(Eccola!)
+(a sé)
+Eccola!
 
 TOSCA
 (vede Cavaradossi e corre ad abbracciarlo)
@@ -1361,7 +1361,7 @@ Mario?! tu qui?
 
 CAVARADOSSI
 (sommessamente)
-(Di quanto là vedesti, taci, o m'uccidi!)
+Di quanto là vedesti, taci, o m'uccidi!
 
 (Tosca accenna che ha capito.)
 
@@ -1461,7 +1461,7 @@ SCARPIA
 la legge.
 
 TOSCA
-Oh! Dio!... Che avvien?!!
+Oh! Dio!... Che avvien?!
 
 SCARPIA
 (con espressione di ferocia e con forza crescente)

@@ -6,29 +6,20 @@ Authoring grammar (see sources/*/it.txt, en.txt):
   SCENA ... / SCENE ...   -> scene header
   ALL-CAPS line           -> character name
   (parenthesized line)    -> stage direction
+  <img:src|caption>       -> image, full width
   blank line              -> stanza break
   [[word|note text]]      -> inline translation-note trigger
 
 sources/<slug>/meta.txt holds two lines: the opera's title, then its
 composer.
 
-it.txt/en.txt are independent hand-authored files, not a paired table:
-for opera-guide.ch (the current Tosca source) the English text is a
-free-flowing prose translation that doesn't follow the Italian's verse
-line breaks, so individual dialogue lines aren't pairable 1:1. Each
-speech (the run of lines between one act/character header and the next)
-is therefore rendered as a single .original/.translation pair holding
-that whole speech in both languages, stacked internally with <br>,
-rather than one row per line. Act/character headers are still paired
-positionally, and any mismatch there is printed as a warning.
-
-Known limitation (sources/tosca): opera-guide.ch's English page also
-reorders/splits *how many* speaking turns some exchanges have (not just
-the line breaks within a turn), so from roughly the second half of Act 2
-through all of Act 3, positional pairing puts some speeches next to the
-wrong character/translation. Flagged here rather than hand-fixed for now
-— see the warnings build_opera() prints; a real fix means hand-editing
-sources/tosca/en.txt to match it.txt's turn sequence for that stretch.
+it.txt/en.txt are paired line by line: line N of one must be the same
+kind of line (both act headers, both character names, both gaps, ...)
+as line N of the other. The moment a pair disagrees, that's logged as a
+warning and the whole build stops there — no attempt is made to
+resynchronize, since guessing how to skip/insert lines to realign two
+independent translations is exactly what produced wrong pairings before.
+Keeping it.txt/en.txt in lockstep is the author's job.
 """
 import html
 import re
@@ -41,16 +32,7 @@ SOURCES_DIR = ROOT_DIR / 'sources'
 LIBRETTO_DIR = ROOT_DIR / 'libretto'
 INDEX_PATH = ROOT_DIR / 'index.html'
 
-NOTE_RE = re.compile(r'\[\[([^|\]]+)\|([^\]]+)]]')
-
-# Only act/character lines are treated as hard block boundaries for pairing.
-# Scene headers ("SCENA .../SCENE ...") are excluded on purpose: opera-guide.ch's
-# Italian page marks every scene but its English page doesn't, so using
-# 'section' as a boundary desynced every block for the rest of the opera the
-# moment one side lacked a scene marker the other had. Treating a lone
-# 'section' line as a body-level entry (see extract_sections) keeps a missing
-# scene header from drifting anything else out of alignment.
-BOUNDARY_KINDS = {'act', 'character', 'section'}
+NOTE_RE = re.compile(r'\[\[?([^|\]]+)\|([^\]]+)]]?')
 
 
 def classify(line):
@@ -62,15 +44,14 @@ def classify(line):
     if stripped.startswith('(') and stripped.endswith(')'):
         return 'stage', stripped
 
-
-    if stripped.startswith('<'):
+    if stripped.startswith('<img:'):
         return 'html', stripped
 
     if stripped == stripped.upper() and any(c.isalpha() for c in stripped):
         upper = stripped.upper()
         if upper.startswith('ATTO') or upper.startswith('ACT '):
             return 'act', stripped
-        if upper.startswith(('SCENA', 'SCENE')) or upper.endswith(('SCENE', 'SCENA')):
+        if upper.startswith(('SCENA', 'SCENE')) or upper.endswith(('SCENA', 'SCENE')):
             return 'section', stripped
         return 'character', stripped
 
@@ -92,138 +73,65 @@ def render_inline(text):
 
 
 def render_image(text):
-    """Render an image tag if present."""
-    if text.startswith('<img:'):
-        template = """<figure class="image-container">
+    """Render a '<img:src|caption>' line as a figure, full width."""
+    template = """<figure class="image-container">
   <div class="image-wrapper">
     <img src="{src}">
   </div>
   <figcaption>{caption}</figcaption>
 </figure>"""
-        img, caption = text[5:].split('|')
-        return template.format(src=img, caption=caption)
-    return text
+    src, caption = text[len('<img:'):].rstrip('>').split('|', 1)
+    return template.format(src=src, caption=html.escape(caption))
 
 
-def to_blocks(lines):
-    """Split classified lines into blocks: a header (act/section/character) plus the body lines that follow it."""
-    blocks = [{'kind': None, 'header': '', 'body': []}]
-    for line in lines:
-        kind, text = classify(line)
-        if kind in BOUNDARY_KINDS:
-            blocks.append({'kind': kind, 'header': text, 'body': []})
-        else:
-            blocks[-1]['body'].append((kind, text))
+def render_row(kind, it_text, en_text):
+    """Render one paired line as the HTML for that row."""
+    if kind == 'gap':
+        return '<div class="line-gap"></div>'
 
-    if blocks[0]['kind'] is None and not blocks[0]['body']:
-        blocks.pop(0)
-    return blocks
+    if kind == 'html':
+        return render_image(it_text)
 
+    it_html, en_html = render_inline(it_text), render_inline(en_text)
 
-def render_body(body):
-    """Render one language's text/stage/gap lines as a single HTML blob for a speech.
+    if kind == 'act':
+        return f'<div class="act-header">{it_html}<span class="alt">{en_html}</span></div>'
 
-    'section' entries are handled separately (see extract_sections) since a
-    scene header is a full-width divider, not part of either language's
-    spoken text.
-    """
-    parts = []
-    for kind, text in body:
-        if kind == 'section' or kind == "html":
-            continue
-        elif kind == 'gap':
-            parts.append('')
-        elif kind == 'stage':
-            parts.append(f'<span class="stage-direction">{render_inline(text)}</span>')
-        else:
-            parts.append(render_inline(text))
+    if kind == 'section':
+        return f'<div class="section-header">{it_html}<span class="alt">{en_html}</span></div>'
 
-    while parts and parts[0] == '':
-        parts.pop(0)
-    while parts and parts[-1] == '':
-        parts.pop()
+    if kind == 'character':
+        if it_html == en_html:
+            return f'<div class="character-name">{it_html}</div>'
+        return f'<div class="character-name">{it_html}<span class="alt">{en_html}</span></div>'
 
-    return '<br>'.join(parts)
-
-
-def extract_full_width_lines(body):
-    return [(text, kind) for kind, text in body if kind in ('section', 'html')]
+    css_class = 'original stage-direction' if kind == 'stage' else 'original'
+    translation_class = 'translation stage-direction' if kind == 'stage' else 'translation'
+    return (
+        f'<div class="{css_class}">{it_html}</div>\n\n'
+        f'            <div class="{translation_class}">{en_html}</div>'
+    )
 
 
 def build_rows(it_lines, en_lines, warn):
-    it_blocks = to_blocks(it_lines)
-    en_blocks = to_blocks(en_lines)
-
-    if len(it_blocks) != len(en_blocks):
-        warn(f'block count mismatch: it has {len(it_blocks)} block(s), en has {len(en_blocks)}')
-
     rows = []
-    for idx, (it_block, en_block) in enumerate(zip_longest(it_blocks, en_blocks)):
-        it_block = it_block or {'kind': None, 'header': '', 'body': []}
-        en_block = en_block or {'kind': None, 'header': '', 'body': []}
+    for idx, (it_line, en_line) in enumerate(zip_longest(it_lines, en_lines)):
+        if it_line is None or en_line is None:
+            warn(f'line {idx}: one file ran out of lines (it={it_line!r}, en={en_line!r}) — stopping here')
+            break
 
-        if it_block['kind'] and en_block['kind'] and it_block['kind'] != en_block['kind']:
+        it_kind, it_text = classify(it_line)
+        en_kind, en_text = classify(en_line)
+        if it_kind != en_kind:
             warn(
-                f"block #{idx} kind mismatch: it={it_block['kind']!r} "
-                f"({it_block['header']!r}) vs en={en_block['kind']!r} ({en_block['header']!r})"
+                f"line {idx}: kind mismatch, it={it_kind!r} ({it_text!r}) vs "
+                f"en={en_kind!r} ({en_text!r}) — stopping here"
             )
-        elif (
-            it_block['kind'] == 'character'
-            and en_block['kind'] == 'character'
-            and it_block['header'] != en_block['header']
-        ):
-            # Not necessarily wrong — group labels get translated (FOLLA/CHORUS,
-            # TUTTI/ALL) — but proper names shouldn't differ, so flag every case
-            # for a human to skim; a real desync (wrong character entirely) looks
-            # like this too and won't be caught any other way.
-            warn(f"block #{idx} character name differs: it={it_block['header']!r} vs en={en_block['header']!r}")
+            break
 
-        kind = it_block['kind'] or en_block['kind']
-        if kind:
-            rows.append({'type': kind, 'it': render_inline(it_block['header']), 'en': render_inline(en_block['header'])})
-
-        speech_it, speech_en = render_body(it_block['body']), render_body(en_block['body'])
-        if speech_it or speech_en:
-            rows.append({'type': 'speech', 'it': speech_it, 'en': speech_en})
-
-        it_sections = extract_full_width_lines(it_block['body'])
-        en_sections = extract_full_width_lines(en_block['body'])
-        for it_text_kind, en_text_kind in zip_longest(it_sections, en_sections, fillvalue=''):
-            it_text, it_kind = it_text_kind
-            en_text, en_kind = en_text_kind
-            if en_kind == 'html':
-                rows.append({'type': en_kind, 'it': render_image(it_text)})
-            else:
-                rows.append({'type': en_kind, 'it': render_inline(it_text), 'en': render_inline(en_text)})
+        rows.append(render_row(it_kind, it_text, en_text))
 
     return rows
-
-
-ROW_TEMPLATES = {
-    'act': '<div class="act-header">{it}<span class="alt">{en}</span></div>',
-    'section': '<div class="section-header">{it}<span class="alt">{en}</span></div>',
-    'character': '<div class="character-name">{it}<span class="alt">{en}</span></div>',
-    'character-same': '<div class="character-name">{it}</div>',
-    'html': '<div class="image-container">{it}</div>',
-}
-
-
-def render_rows_html(rows):
-    parts = []
-    for row in rows:
-        if row['type'] == 'speech':
-            parts.append(f'<div class="original">{row["it"]}</div>')
-            parts.append(f'<div class="translation">{row["en"]}</div>')
-        elif row['type'] == 'character':
-            if row['it'] == row['en']:
-                parts.append(ROW_TEMPLATES['character-same'].format(it=row['it']))
-            else:
-                parts.append(ROW_TEMPLATES['character'].format(it=row['it'], en=row['en']))
-        elif row['type'] == 'html':
-            parts.append(ROW_TEMPLATES['html'].format(it=row['it']))
-        else:
-            parts.append(ROW_TEMPLATES[row['type']].format(it=row['it'], en=row['en']))
-    return '\n\n            '.join(parts)
 
 
 PAGE_TEMPLATE = """<!DOCTYPE html>
@@ -244,7 +152,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
         <h1 class="opera-title">{title}</h1>
         <h2 class="opera-composer">{composer}</h2>
         <p class="opera-note">
-            Click on the <span class="note-trigger">highlighted words</span> to read translation notes.
+            Click on the <span class="note-trigger" data-note="Example  ">highlighted words</span> to read translation notes.
         </p>
     </header>
 
@@ -288,11 +196,15 @@ def build_opera(slug):
     LIBRETTO_DIR.mkdir(parents=True, exist_ok=True)
     out_path = LIBRETTO_DIR / f'{slug}.html'
     out_path.write_text(
-        PAGE_TEMPLATE.format(title=html.escape(title), composer=html.escape(composer), rows=render_rows_html(rows)),
+        PAGE_TEMPLATE.format(
+            title=html.escape(title),
+            composer=html.escape(composer),
+            rows='\n\n            '.join(rows),
+        ),
         encoding='utf-8',
     )
 
-    print(f'{slug}: wrote {out_path} ({len(rows)} rows)')
+    print(f'{slug}: wrote {out_path} ({len(rows)} row(s))')
     for warning in warnings:
         print(f'  WARNING: {warning}')
     return title, composer, len(warnings)
