@@ -76,14 +76,14 @@ CAVARADOSSI
 (al Sagrestano)
 Dammi i colori!
 (Il Sagrestano eseguisce. Cavaradossi dipinge con rapidità e si sofferma spesso a riguardare il proprio lavoro: il Sagrestano va e viene, portando una catinella entro la quale continua a lavare i pennelli. A un tratto Cavaradossi si ristà di dipingere; leva di tasca un medaglione contenente una miniatura e gli occhi suoi vanno dal medaglione al quadro.)
-[Recondita|From Latin recondĭtus: hidden away, deeply inaccessible, as of thoughts or truths. Higher register than "nascosto" (hidden)] armonia
+[[Recondita|From Latin recondĭtus: hidden away, deeply inaccessible, as of thoughts or truths. Higher register than "nascosto" (hidden). Cf.  "verità recondite" (Galilei)]] armonia
 di bellezze diverse!...
 È bruna Floria,
 l'ardente amante mia...
 
 SAGRESTANO
 (a mezza voce, come brontolando)
-[Scherza coi fanti e lascia stare i santi!|Rhyminig proverb meaning "do not mix sacred and profane". In this case, the image of Mary Magdalene and the real tempting beauties of this world.]
+[[Scherza coi fanti e lascia stare i santi!|Rhyminig proverb meaning "do not mix sacred and profane". In this case, the image of Mary Magdalene and the beauties of this world.]]
 (s'allontana per prendere l'acqua onde pulire i pennelli)
 
 CAVARADOSSI
@@ -105,7 +105,7 @@ il mio solo pensiero, Tosca, sei tu!
 (continua a dipingere)
 
 SAGRESTANO
-Queste diverse [gonne|Literally "skirts", to rhyme with Madonne, but also to evoke a more carnal image]
+Queste diverse [[gonne|Literally "skirts", to rhyme with Madonne, but also to evoke a more mundane image]]
 che fanno concorrenza alle Madonne
 mandan tanfo d'Inferno.
 (asciuga i pennelli lavati, non senza continuare a borbottare)
@@ -242,7 +242,7 @@ Chi?
 TOSCA
 Colei!... Quella donna!...
 Ho udito i lesti
-passi ed un fruscio di [vesti|Note the seqence of fricative sounds - lesti, passi, fruscio, vesti - and the rhyme]...
+passi ed un fruscio di [[vesti|Note the seqence of fricative sounds - lesti, passi, fruscio, vesti - and the rhyme]]...
 
 CAVARADOSSI
 Sogni!
@@ -271,7 +271,7 @@ Stasera!
 
 TOSCA
 È luna piena
-e il notturno [effluvio|from Latin effluĕre, flowing out] floreal
+e il notturno effluvio floreal
 inebria il cor! - Non sei contento?
 (si siede sulla gradinata presso a Cavaradossi)
 
@@ -289,9 +289,9 @@ Tanto!
 TOSCA
 (stizzita)
 Lo dici male:
-Non la sospiri la nostra casetta
+[[Non la sospiri la nostra casetta|Tosca's love poem begins, the mood is sweet and light with dramatic peaks.]]
 che tutta ascosa nel verde ci aspetta?
-Nido [a noi sacro, ignoto al mondo|The chiasmus (to us sacred, unknown to the world) introduces Tosca's poem] intero,
+Nido a noi sacro, ignoto al mondo intero,
 pien d'amore e di mister?
 Al tuo fianco sentire
 per le silenziose
@@ -300,7 +300,7 @@ le voci delle cose!...
 Dai boschi e dai roveti,
 dall'arse erbe, dall'imo
 dei franti sepolcreti
-odorosi di [timo|Rhyming scheme ABAB (roveti, imo, sepolcreti, timo), then CDCD below],
+odorosi di timo,
 la notte escon bisbigli
 di minuscoli amori
 e perfidi consigli
@@ -382,7 +382,7 @@ CAVARADOSSI
 Vien via!
 
 TOSCA
-Ah, la [civetta|Literally "little owl", a bird of prey, to describe a flirtacious woman]!
+Ah, la [[civetta|Literally "little owl", a bird of prey, to describe a flirtacious woman.]]!
 (minacciosa)
 A me, a me!
 
@@ -480,7 +480,7 @@ Tu fino a stassera
 stai fermo al lavoro. E mi prometti:
 sia caso o fortuna,
 sia treccia bionda o bruna,
-a pregar non verrà donna [nessuna|Three playful rhyming lines]!
+a pregar non verrà donna [[nessuna|Three playful rhyming lines.]]!
 
 CAVARADOSSI
 Lo giuro, amore!... Va!
@@ -624,7 +624,6 @@ Se ci assalgon, battaglia!
 (escono rapidamente dalla Cappella.)
 
 SCENA SETTIMA
-(Sagrestano - Allievi e Cantori della Cappella - Chierici - Confratelli.)
 
 SAGRESTANO
 (entra correndo, tutto scalmanato, gridando:)
@@ -1563,7 +1562,7 @@ Mai Tosca alla scena
 più tragica fu!
 
 TOSCA
-(inorridita, si allontana da Scarpia che, preso da subitaneo senso di ferocia, si rivolga a Spoletta)
+(inorridita, si allontana da Scarpia che, preso da subitaneo senso di ferocia, si rivolge a Spoletta)
 
 SCARPIA
 (gridando)
@@ -1704,6 +1703,7 @@ SCARPIA
 (a Spoletta con autorità)
 Nel pozzo
 del giardino. - Va, Spoletta!
+
 (Spoletta esce: Cavaradossi, che ha udito, si leva minaccioso contro Tosca; poi le forze l'abbandonano e si lascia cadere sul canapè, esclamando con rimprovero pieno di amarezza verso Tosca:)
 
 CAVARADOSSI
@@ -1716,9 +1716,9 @@ Mario!
 CAVARADOSSI
 (respingendo Tosca che si abbraccia stretta a lui)
 Maledetta!
-(Sciarrone, a un tratto, irrompe tutto affannoso)
 
 SCIARRONE
+(a un tratto, irrompe tutto affannoso)
 Eccellenza! quali nuove!...
 
 SCARPIA
@@ -1746,6 +1746,7 @@ Melas...
 
 SCIARRONE
 No! Melas è in fuga!...
+
 (Cavaradossi, che con ansia crescente ha udito le parole di Sciarrone, trova nel proprio entusiasmo la forza di alzarsi minaccioso in faccia a Scarpia.)
 
 CAVARADOSSI
@@ -1781,7 +1782,6 @@ SCARPIA
 Voi no!
 
 SCENA QUINTA
-(Tosca - Scarpia)
 
 TOSCA
 (come un gemito)
@@ -1974,6 +1974,7 @@ tu, a me una vita, io, a te chieggo un istante!
 TOSCA
 (alzandosi, con un senso di gran disprezzo)
 Va! - Va! - Mi fai ribrezzo!
+
 (bussano alla porta)
 
 SCARPIA
@@ -1993,7 +1994,8 @@ Il Cavalier Cavaradossi?
 È tutto pronto, Eccellenza!
 
 TOSCA
-(Dio m'assisti!)
+(a sé)
+Dio m'assisti!
 
 SCARPIA
 (a Spoletta)
@@ -2058,7 +2060,8 @@ all'ora quarta...
 SPOLETTA
 (con intenzione)
 Sì. Come Palmieri...
-(esce Scarpia, ritto presso la porta, ascolta Spoletta allontanarsi, poi trasformato nel viso e nei gesti si avvicina con grande passione a Tosca.)
+
+(esce. Scarpia, ritto presso la porta, ascolta Spoletta allontanarsi, poi trasformato nel viso e nei gesti si avvicina con grande passione a Tosca.)
 
 SCARPIA
 Io tenni la promessa...
@@ -2129,14 +2132,16 @@ TOSCA
 Muori dannato! Muori, Muori!
 (Scarpia rimane rigido)
 È morto! Or gli perdono!
-(senza togliere lo sguardo dal cadavere di Scarpia, va al tavolo, prende una bottiglia d'acqua e inzuppando un tovagliolo si lava le dita, poi si ravvia i capelli guardandosi allo specchio e Quindi cerca il salvacondotto sullo scrittoio; non trovandolo. Si sovviene del salvacondotto... lo cerca sullo scrittoio, ma non lo trova; lo cerca ancora, finalmente vede il salvacondotto nella mano raggrinzita di Scarpia. Solleva il braccio di Scarpia, che poi lascia cadere inerte, dopo aver tolto il salvacondotto che nasconde in petto.)
+(senza togliere lo sguardo dal cadavere di Scarpia, va al tavolo, prende una bottiglia d'acqua e inzuppando un tovagliolo si lava le dita, poi si ravvia i capelli guardandosi allo specchio e quindi cerca il salvacondotto sullo scrittoio; non trovandolo. Si sovviene del salvacondotto... lo cerca sullo scrittoio, ma non lo trova; lo cerca ancora, finalmente vede il salvacondotto nella mano raggrinzita di Scarpia. Solleva il braccio di Scarpia, che poi lascia cadere inerte, dopo aver tolto il salvacondotto che nasconde in petto.)
 E avanti a lui tremava tutta Roma!
-si avvia per uscire, ma si pente, va a prendere le due candele che sono sulla mensola a sinistra e le accende al candelabro sulla tavola spegnendo poi questo. Colloca una candela accesa a destra della testa di Scarpia. Mette l'altra candela a sinistra . Cerca di nuovo intorno e vedendo un crocefisso va a staccarlo dalla parete e portandolo religiosamente si inginocchia per posarlo sul petto di Scarpia. Si alza e con grande precauzione esce, richiudendo dietro a sé la porta.
+(si avvia per uscire, ma si pente, va a prendere le due candele che sono sulla mensola a sinistra e le accende al candelabro sulla tavola spegnendo poi questo. Colloca una candela accesa a destra della testa di Scarpia. Mette l'altra candela a sinistra . Cerca di nuovo intorno e vedendo un crocefisso va a staccarlo dalla parete e portandolo religiosamente si inginocchia per posarlo sul petto di Scarpia. Si alza e con grande precauzione esce, richiudendo dietro a sé la porta.)
+
 ATTO TERZO
-La piattaforma di Castel Sant'Angelo.
 
 SCENA PRIMA
-(A sinistra, una casamatta: vi è collocata una tavola, sulla quale stanno una lampada, un grosso registro e l'occorrente per scrivere: una panca, una sedia. Su di una parete della casamatta un crocifisso: davanti a questo è appesa una lampada. A destra, L'apertura di una piccola scala per la quale si ascende alla piattaforma. Nel fondo il Vaticano e San Pietro. Notte - Cielo sereno, scintillante di stelle. Si odono, lontane, le campanelle d'un armento: di mano in mano vanno sempre più affievolendosi.)
+(La piattaforms di Castel Sant'Angelo. A sinistra, una casamatta: vi è collocata una tavola, sulla quale stanno una lampada, un grosso registro e l'occorrente per scrivere: una panca, una sedia. Su di una parete della casamatta un crocifisso: davanti a questo è appesa una lampada. A destra, L'apertura di una piccola scala per la quale si ascende alla piattaforma. Nel fondo il Vaticano e San Pietro. Notte - Cielo sereno, scintillante di stelle. Si odono, lontane, le campanelle d'un armento: di mano in mano vanno sempre più affievolendosi.)
+
+<img:https://images.unsplash.com/photo-1674511470738-883b72bd0225?q=80&w=2676&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D|Castel Sant'Angelo>
 
 LA VOCE DI UN PASTORE
 Io de' sospiri.
@@ -2146,13 +2151,12 @@ Ne smoveno li venti.
 
 Tu me disprezzi.
 Io me ci accoro,
-Lampene d'oro
-Me fai morir!
+Lampena d'oro
+[[Me fai morir|Poem by Luigi Zanazzo]]!
 
 (La luce incerta e grigia che precede l'alba: le campane delle chiese suonano mattutino. Un Carceriere con una lanterna sale dalla scala, va alla casamatta e vi accende la lampada sospesa davanti al crocifisso, poi quella sulla tavola. Poi va in fondo alla piattaforma e guarda giù nel cortile sottostante per vedere se giunge il picchetto dei soldati, col condannato. Si incontra con una sentinella che percorre tutt'all'intorno la piattaforma e scambiate colla stessa alcune parole, ritorna alla casamatta, siede ed aspetta mezzo assonnato. Più tardi un picchetto, comandato da un Sergente di guardia, sale sulla piattaforma accompagnando Cavaradossi: il picchetto si arresta e il Sergente conduce Cavaradossi nella casamatta, consegnando un foglio al Carceriere. - Il Carceriere esamina il foglio, apre il registro e vi scrive mentre interroga:)
 
 SCENA SECONDA
-(Il Carceriere - Cavaradossi - un Sergente - Soldati)
 
 CARCERIERE
 Mario Cavaradossi?
@@ -2467,4 +2471,4 @@ TOSCA
 Colla mia!
 (all'urto inaspettato Spoletta dà addietro e Tosca rapida gli sfugge, passa avanti a Sciarrone ancora sulla scala e correndo al parapetto si getta nel vuoto gridando:)
 O Scarpia, avanti a Dio!
-Sciarrone ed alcuni soldati, saliti confusamente, corrono al parapetto e guardano giù. Spoletta rimane esterrefatto, allibito.
+(Sciarrone ed alcuni soldati, saliti confusamente, corrono al parapetto e guardano giù. Spoletta rimane esterrefatto, allibito.)

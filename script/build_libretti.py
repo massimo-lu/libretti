@@ -87,7 +87,7 @@ def render_image(text):
 def render_row(kind, it_text, en_text):
     """Render one paired line as the HTML for that row."""
     if kind == 'gap':
-        return '<div class="line-gap"></div>'
+        return ''
 
     if kind == 'html':
         return render_image(it_text)

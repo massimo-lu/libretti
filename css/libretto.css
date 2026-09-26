@@ -213,7 +213,7 @@ figcaption {
 /* Blank line separating stanzas or speeches */
 .line-gap {
     grid-column: 1 / -1;
-    height: 1.25rem;
+    height: 1rem;
 }
 
 /* --- Clickable notes ------------------------------------------- */

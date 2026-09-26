@@ -38,7 +38,7 @@ Et concepit de Spiritu Sancto.
 Ecce ancilla Domini;
 Fiat mihi secundum Verbum tuum
 Et Verbum caro factum est
-[Et habitavit in nobis...|The Angel of the Lord declared unto Mary, And she conceived of the Holy Spirit. Behold the handmaid of the Lord, Be it done unto me according to thy word. And the Word was made flesh, And dwelt among us...]
+[[Et habitavit in nobis...|The Angel of the Lord declared unto Mary, And she conceived of the Holy Spirit. Behold the handmaid of the Lord, Be it done unto me according to thy word. And the Word was made flesh, And dwelt among us...]]
 
 THIRD SCENE
 
@@ -70,16 +70,16 @@ That I, unseen, painted her lovely face.
 
 SACRISTAN
 (scandalised)
-[Out, Satan, Out!|With this comedic reaction, the Sacristan reveals the weakness of his flesh.]
+[[Out, Satan, Out!|With this comedic reaction, the Sacristan reveals his weakness.]]
 
 CAVARADOSSI
 (to the Sacristan)
 Give me my paints.
 (The Sacristan obeys. Cavaradossi paints rapidly, with frequent pauses to observe his work. The Sacristan comes and goes; he carries a small basin in which he continues washing the brushes. Suddenly Cavaradossi leaves his painting: from his pocket he takes a medallion with a miniature portrait, and his eyes go from the miniature to his own painting.)
-Hidden harmony
+[[Hidden harmony|One of the main arias of act one begins]]
 Of diverse beauties! 
-Floria is dark, 
-my burning lover...
+Floria is dark-haired, 
+my ardent lover...
 
 SACRISTAN
 (in an undertone, as if grumbling)
@@ -110,8 +110,8 @@ that compete with the Madonna
 reek of Hell.
 (dries the washed brushes, all the while muttering)
 Jest with knaves and leave the saints...
-And as for those dogs of [Voltairians|Referring to Voltaire, liberal Franch philosopher and critic of the church.] 
-enemies of the most [Holy Government|The political theme of the opera is first introduced.] 
+And as for those dogs of [[Voltairians|Referring to Voltaire, liberal Franch philosopher and critic of the church. The political background of the opera is introduced.]]
+enemies of the most Holy Government
 one must not even speak of them!...
 (he places the basin under the scaffolding and the brushes in a vase, near the painter)
 Jest with knaves and leave the saints...
@@ -160,7 +160,7 @@ Heaven sent you!
 (Cavaradossi does not recognize Angelotti and stands dumbfounded on the scaffolding; Angelotti draws closer so as to be recognized.)
 Don't you recognise me?
 (with sadness)
-Prison has then truly changed me!
+Prison has truly changed me then!
 
 CAVARADOSSI
 (recognizing him, he quickly sets down his palette and brushes and climbs down from the scaffolding toward Angelotti, glancing cautiously around)
@@ -170,7 +170,7 @@ Of the lamented Roman Republic!
 
 ANGELOTTI
 (approaching Cavaradossi mysteriously)
-I have just escaped from Castel Sant'Angelo.
+I have just escaped from Castel Sant'Angelo!
 
 CAVARADOSSI
 (generously)
@@ -183,7 +183,7 @@ Mario!
 CAVARADOSSI
 Hide! 
 She's a... jealous woman!
-Only a moment and I'll send her away.
+One moment and I'll send her away.
 
 TOSCA'S VOICE
 Mario!
@@ -225,7 +225,7 @@ Why was it locked?
 
 CAVARADOSSI
 (with feigned indifference)
-That's the Sacristan's wish.
+The Sacristan's demands it...
 
 TOSCA
 Who were you talking to?
@@ -240,7 +240,7 @@ CAVARADOSSI
 Who?
 
 TOSCA
-She!... That woman!...
+Her!... That woman!...
 I heard the quick steps
 And the rustling of a dress.
 
@@ -257,13 +257,13 @@ I deny it and I love you!
 TOSCA
 (with gentle reproach)
 Oh! Before the Madonna,
-No, Mario,
+No, my dear Mario,
 Let me first pray to her and offert flowers.
 (She slowly approaches the Madonna, artfully arranges the flowers she has brought around her, kneels and prays with great devotion, crossing herself; then she rises and goes toward Cavaradossi, who has meanwhile started to resume his work.)
 Now listen - tonight I am singing,
 But the programme will be short. You wait for me
 At the stage entrance, 
-and we two shall go to your villa, all alone.
+and we shall go to your villa, all alone.
 
 CAVARADOSSI
 (his thoughts still elsewhere)
@@ -272,7 +272,7 @@ Tonight!
 TOSCA
 It's a full moon
 and the nightly release of floral scents
-inhibits the heard! - Aren't you happy?
+inebriates the heart! - Aren't you happy?
 (sits on the steps near Cavaradossi)
 
 CAVARADOSSI
@@ -303,7 +303,7 @@ of shattered graves
 scented with thyme,
 by night whispers come forth
 of tiny cupids 
-and [perfidious|in the literal sense: unworthy of trust] suggestions
+and perfidious counsels
 that soften the hearts.
 Bloom, oh vast fields, palpitate
 oh sea winds, in the moon's pale glimmer,
@@ -375,7 +375,7 @@ It was pure chance...
 
 TOSCA
 (not listening, with jealous anger)
-Those steps and whispers...
+Those steps and those whispers...
 Ah! She was here just now!
 
 CAVARADOSSI
@@ -408,7 +408,7 @@ CAVARADOSSI
 Come away!
 
 TOSCA
-She taunts and mocks me.
+She taunts me, laughing.
 (they descended)
 
 CAVARADOSSI
@@ -425,7 +425,7 @@ can be a match
 for your dark burning eyes?
 It is in them that my whole being fastens,
 Eyes soft with love and fierce with rage!
-What other eye in the world can match
+What other eyes in the world can match
 your dark eyes!
 
 TOSCA
@@ -457,15 +457,15 @@ Your audacious wrath
 And your pangs of love!
 
 TOSCA
-Say again
+Say them again
 Those comforting words...
 Say them again!
 
 CAVARADOSSI
 My life, my restless lover.
 I shall always say, "I love you, Floria!"
-Ah! Your uneasy heart,
-always I shall say "I love you!"
+Ah! Temper your soul,
+I shall always say "I love you!"
 
 TOSCA
 (softening, fearing she is overcome)
@@ -509,7 +509,7 @@ But give her dark eyes!
 
 SIXTH SCENE
 
-(A kiss and Tosca hurries away. Cavaradossi listens to her withdrawing footsteps, then carefully opens the door half-way and peers out. Seeing that all is clear, he runs to the Chapel, and Angelotti at once appears from behind the gate.)
+(As soon as Tosca has left, Cavaradossi listens to her receding footsteps; then, cautiously, he opens the door a crack and looks out. Seeing that all is quiet, he runs to the chapel. Angelotti appears just behind the gate.)
 
 CAVARADOSSI
 (opening the gate for Angelotti, who has of course heard the foregoing dialogue)
@@ -553,8 +553,8 @@ She has dared all
 To save me from the wicked Scarpia!
 
 CAVARADOSSI
-Scarpia?! That bigoted [satyr|Denotes rough and uncouth manners as well as morbid lust] who hones
-Libertine [frenzy|In particular related to lust]
+Scarpia?! That bigoted [[satyr|Denotes rough and uncouth manners as well as morbid lust]] who hones
+Libertine [[frenzy|In particular related to lust]]
 with practices of devotion
 and for his wanton appetites
 (with growing force)
@@ -572,7 +572,7 @@ On a vegetable garden, beyond that is a canefield
 That winds along through meadows to my villa.
 
 ANGELOTTI
-I know [it|The villa]...
+I know [[it|The villa.]]...
 
 CAVARADOSSI
 Here is the key... Before evening
@@ -615,7 +615,7 @@ CAVARADOSSI
 I will come with you! We must be on guard!
 
 ANGELOTTI
-Someone's coming!
+I hear someone!
 
 CAVARADOSSI
 (with enthusiasm)
@@ -624,7 +624,6 @@ If they assault us, to battle!
 (They leave quickly by the Chapel.)
 
 SEVENTH SCENE
-(Sacristan – Chapel Students and Choristers – Clerics – Confraternity Members.)
 
 SACRISTAN
 (enters running, frenzied, shouting:)
@@ -638,7 +637,7 @@ The whole choir is here!
 Hurry!...
 (other pupils arrive tardily, and eventually all group  together.)
 
-ALLIEVI
+STUDENTS
 (in great confusion)
 Where?
 
@@ -661,7 +660,7 @@ Well? What happened?
 
 SACRISTAN
 He was plucked, quartered,
-And thrown to [Beelzebub|The devil]!
+And thrown to [[Beelzebub|The devil]]!
 
 STUDENTS, SINGERS
 Who says so? 
@@ -728,7 +727,7 @@ Keep watch at the doors,
 Without arousing suspicion!
 (to Sacristan)
 Now, as for you! Weigh 
-Your answers well. A prisoner of State
+Your answers well. A prisoner of the State
 Has just escaped from Castel Sant'Angelo...
 (forceful)
 He took refuge here...
@@ -825,7 +824,7 @@ Nor did he want to eat... He told me so himself.
 So I put the basket... 
 safely to one side.
 (Shows where he put the basket, and leaves it there.)
-[Libera me domine|Set me free, Lord]!
+[[Libera me domine|Set me free, Lord]]!
 
 (pause)
 
@@ -838,7 +837,7 @@ Was Angelotti's booty!
 Tosca? She must not see me.
 (As soon as he sees Tosca enter, he skillfully hides behind the column where the holy water stoup stands, imperiously signaling the Sacristan to stay put; the latter, trembling and flustered, makes his way toward the painter's scaffolding.)
 To drive a jealous man to desperation,
-[Iago|From Shakespeare's Othello] had a handkerchief... and I, a fan!...
+[[Iago|From Shakespeare's Othello.]] had a handkerchief... and I, a fan!...
 
 NINETH SCENE
 (Tosca - Scarpia - Sagrestano)
@@ -899,11 +898,11 @@ who share the face and ways
 (pointing to the portrait)
 of Magdalene...
 (with marked emphasis)
-and dally with love!
+and carry on love affairs!
 
 TOSCA
 (snaps alert)
-What? In love? Your proof!
+What? Love affairs? Your proof!
 
 SCARPIA
 (showing her the fan)
@@ -933,9 +932,9 @@ TOSCA
 (forgetting both the place and Scarpia, tries to hold back her tears)
 And I came to him all sorrowful
 to tell him: in vain tonight
-[the sky darkens|Referring to her poem above, in which she suggested they would spend the night together at the villa under the light of the full moon]...
+[[the sky darkens|Referring to her poem above, in which she suggested they would spend the night together at the villa under the light of the full moon]]...
 Lovestruck Tosca
-is a [prisoner... of royal festivities|She is being held to sing, as mentioned previously].
+is a [[prisoner... of royal festivities|She has to sing for the celebrations, as mentioned previously]].
 
 (a group of shepherds and peasant women enters)
 
@@ -980,10 +979,10 @@ I could catch them, the traitors!
 (growing increasingly furious)
 Oh, what a suspicion!
 That villa is a haven
-for illicit loves!
+for duplicitous loves!
 (with immense anguish)
 Traitor!
-Oh, my beautiful [nest|Resumes the aviary metaphor, see "civetta" (little owl) with reference to Ms. Attavanti and the lost "piume" (feathers) of the fleeing Angelotti earlier.], defiled with filth!
+Oh, my beautiful [[nest|Resumes the aviary metaphor, see "civetta" (little owl) with reference to Ms. Attavanti and the lost "piume" (feathers) of the fleeing Angelotti earlier.]], defiled with filth!
 (with sudden resolve)
 I shall swoop down upon them unawares!
 (turning threateningly toward the portrait)
@@ -995,23 +994,23 @@ In church!
 
 TOSCA
 God will pardon me... He sees me weeping!
-(She weeps bitterly; Scarpia supports her as he leads her to the exit, feigning reassurance. As soon as Tosca has left, the church gradually fills with people. The crowd gathers at the back, awaiting the Cardinal; some are kneeling in prayer.)
+(weeps bitterly; Scarpia supports her as he leads her to the exit, feigning reassurance. As soon as Tosca has left, the church gradually fills with people. The crowd gathers at the back, awaiting the Cardinal; some are kneeling in prayer.)
 
 SCARPIA
 (after escorting Tosca, he returns to the column and makes a signal; Spoletta immediately appears)
 Three cops... a carriage... 
-Quick!... follow
+Quick!... follow her
 Wherever she goes!... Unseen!... Take care of it!
 
 SPOLETTA
 Very well! The meeting place?
 
 SCARPIA
-Farnese Palace!
+Palazzo Farnese!
 (Spoletta quickly sets off with three cops, wearing a sardonic smile)
-Go, Tosca! Now Scarpia digs a [nest|See the reference to her nest ("nido") Tosca made above] within your heart!
+Go, Tosca! Scarpia digs a [[nest|See the reference to her nest ("nido") Tosca made above]] within your heart!
 It is Scarpia who looses in flight
-The hawk of your jealousy.
+The falcon of your jealousy.
 What promise lies in your ready suspicion!
 
 (The procession accompanying the Cardinal to the high altar emerges: Swiss Guards clear a path through the crowd, which forms two lines. Scarpia bows and prays as the Cardinal passes. The Cardinal blesses the crowd, who bow reverently.)
@@ -1020,34 +1019,34 @@ CHORUS
 Adjutorum nostrum in nomine Domini
 Qui fecit coelum et terram
 Sit nomen Domini benedictum
-[Et hoc nunc et usque in saeculum.|Our help is in the name of the Lord, Who made heaven and earth. Blessed be the name of the Lord, Both now and forevermore.]
+[[Et hoc nunc et usque in saeculum.|Our help is in the name of the Lord, Who made heaven and earth. Blessed be the name of the Lord, Both now and forevermore.]]
 
 SCARPIA
 (fiercely)
 A twofold aim
 guides my will; nor is the rebel's head
 the most precious prize. Ah, to see the flame
-in those triumphant eyes
+of those triumphant eyes
 (with erotic passion)
-[soften|Subject: the flame] with the throes of love,
-in my arms...
+grow languid with the throes of love,
+within my arms...
 (fiercely)
-The one on the gallows,
+The one to the gallows,
 the other in my arms...
 (He stands motionless, staring into the void. The entire crowd is turned toward the high altar; some are kneeling.)
 
 CHORUS
 Te Deum laudamus,
-[Te Deum confitemur|You God, we worship, You God, we acknowledge]!
+[[Te Deum confitemur|You God, we worship, You God, we acknowledge]]!
 
 SCARPIA
 (as though awakening him from a dream)
-[Tosca, you make me forget God|Climax of the aria]!
+[[Tosca, you make me forget God|Climax of the aria]]!
 (he kneels and prays devoutly)
 
 CHORUS, CHORUS
 Te aeternum
-[Patrem omnis terra veneratur|You, eternal father, the whole earth venerates]!
+[[Patrem omnis terra veneratur|You, eternal father, the whole earth venerates]]!
 
 ACT TWO
 
@@ -1061,17 +1060,17 @@ SCARPIA
 (He is seated at the table, dining. He pauses occasionally to reflect. He glances at the clock; he is restless and pensive.)
 Tosca is a good falcon!...
 Surely by this time
-My hounds have fallen on their two preys!
+My hounds are sinking their fangs into the two prey!
 And tomorrow's dawn will see
-Angelotti on the scaffold
-And the fine Mario hanging 
+on the scaffold
+Angelotti and the fine Mario hanging 
 from a noose.
 (rings a bell. Enter Sciarrone)
-Is Tosca in the palace?
+Is Tosca in the palace?...
 
 SCIARRONE
 A chamberlain has just gone
-To look for her.
+To look for her...
 
 SCARPIA
 (points towards the window)
@@ -1095,10 +1094,10 @@ Of profound loves... Violent conquest
 Has stronger relish 
 than mellifluous surrender.
 I take no delight in sighs 
-and [milky lunar dawns|Evokes Tosca's poem to Mario in act one, which Scarpia did not hear]. I know not how to draw
+and [[milky lunar dawns|Incidentally evokes Tosca's poem to Mario in act one, which Scarpia did not hear]]. I know not how to draw
 Harmony from guitars, or horoscopes from flowers, 
 (indignantly)
-nor am I apt at giving [languid glances|Literally "making fish eyes"],
+nor am I apt at giving [[languid glances|Literally "making fish eyes"]],
 Or cooing like a dove. 
 (stands, but does not move far from the table)
 I crave. I pursue 
@@ -1106,7 +1105,7 @@ what I crave, sate myself and cast it away...
 Then seek new bait. God made diverse beauties
 As he made diverse wines... and of these
 divine works I mean to taste my full.
-(he drinks)
+(drinks)
 
 SCIARRONE
 (enters)
@@ -1187,9 +1186,9 @@ He is there.
 TOSCA and CHORUS
 The song of humanity rises and ascends,
 traversing spaces, traversing heavens,
-through unknown [empyrean suns|In Aristotelian cosmology, the highest sphere of the universe],
+through unknown [[empyrean suns|In Aristotelian cosmology, the highest sphere of the universe]],
 foretold by the gospels,
-to arrive to you, o king of kings,
+to arrive to you, oh king of kings,
 may this song fly to you.
 To you may this hymn fly,
 supreme God of victory.
@@ -1199,7 +1198,7 @@ may this hymn of glory
 now fly to you!
 The song of humanity rises and ascends,
 traversing spaces, traversing heavens,
-to arrive to you, o king of kings.
+to arrive to you, oh king of kings.
 
 SCARPIA
 So Tossca came back - she is down there below him...
@@ -1368,7 +1367,7 @@ Of what you saw there, say nothing, else you kill me!
 SCARPIA
 (solemnly)
 Mario Cavaradossi,
-The judge awaits your testimony
+The judge awaits your testimony.
 (to Roberti)
 First, the usual formalities... Then... as I shall order...
 
@@ -1482,7 +1481,7 @@ Alas!
 (a prolonged groan)
 
 TOSCA
-A groan? Oh, mercy! Mercy!
+A groan? Mercy! Mercy!
 
 SCARPIA
 It is up to you to save him.
@@ -1523,18 +1522,20 @@ Are they hurting you
 still?
 
 CAVARADOSSI’S VOICE
-No. Courage... and be silent. I scorn the pain!
+No - Courage! Be silent - I scorn the pain!
 
 SCARPIA
-Come on Tosca, speak!
+(approaching Tosca)
+Come on, Tosca, speak!
 
 TOSCA
 (strengthened by Mario’s words)
-I know nothing.
+I know nothing!
 
 SCARPIA
 Wasn't that enough for you?
 Roberti, start again...
+(begins to move towards thee door)
 
 TOSCA
 (throwing herself in front of the door, to keep him from giving the order)
@@ -1544,35 +1545,41 @@ SCARPIA
 Will you speak?
 
 TOSCA
-No, no! Ah, monster!
-Murderer... you're killing him!
+No... monster!
+You torment him... you're killing him!
 
 SCARPIA
-lt's your silence
-That is killing him.
+It's your silence
+That torments him much more.
 
 TOSCA
-Monster, do you laugh
+You laugh...
 At this ghastly torment?
 
 SCARPIA
-(with fierce irony)
-Tosca on the stage
+(with enthusiasm)
+Tosca on stage
 Was never more tragic!
-(to Spoletta)
+
+TOSCA
+(horrified, she moves away from Scarpia, who, seized by a sudden fit of savagery, turns to Spoletta)
+
+SCARPIA
+(shouting)
 Open the door so she
-Can hear his groans better.
+May hear his groans!
 
 (Spoletta opens the door and stands stiffly on the threshold.)
 
 CAVARADOSSI’S VOICE
-I defy you.
+I defy you!
 
 SCARPIA
+(shouting at Roberti)
 Harder! Harder!
 
 CAVARADOSSI’S VOICE
-I defy you all!
+I defy you!
 
 SCARPIA
 (to Tosca)
@@ -1582,73 +1589,70 @@ TOSCA
 What can I say?
 
 SCARPIA
-Come, speak...
+Come on!
 
 TOSCA
-Oh, I know nothing!
-Must I lie to you?
+Ah! I know nothing!
+(despairing)
+Should I lie?
 
 SCARPIA
-Where is Angelotti?
+(insisting)
+Tell me, where is Angelotti? Speak!
+Come now  — where is he hiding?
 
 TOSCA
-No,no!
-
-SCARPIA
-Speak up, come, quickly. Where's he hiding?
-
-TOSCA
-I can stand no more. Oh, horror!
-Stop this torture... It's more than I can bear...
-I can stand no more... no more...
+No! — Ah! I can bear no more! — What horror!
+End the torment! The suffering is too great!
 
 CAVARADOSSI’S VOICE
 Ah!
 
 TOSCA
-(she turns imploringly to Scarpia, who signals to Spoletta to let her come near; she goes to the open door and is overwhelmed by the horrible scene within. She cries out in anguish to Cavaradossi:)
-Mario, will you let me speak?
+(She turns once more imploringly to Scarpia, who signals Spoletta to let Tosca approach; she goes to the open doorway and, horrified by the sight of the ghastly scene, turns to Cavaradossi in utter anguish:)
+Mario, will you allow
+that I speak?
 
 CAVARADOSSI’S VOICE
-No.
+(broken)
+No, no.
 
 TOSCA
 (pleading)
 Listen, I can bear no more...
 
 CAVARADOSSI’S VOICE
-Fool! What do you know and what can you say?
+Fool, what do you know? What can you say?
 
 SCARPIA
-(enraged at this, he shouts furiously at Spoletta)
+(furious at Cavaradossi’s words and fearing that they might further encourage Tosca to remain silent, he shouts terrifyingly at Spoletta:)
 Shut him up!
 
-SPOLETTA
-(goes into the torture chamber, returning after a moment. Tosca overcome with emotion, has fallen prostrate on the sofa. Sobbing she appeals to Scarpia. He stands silent and impassive. Spoletta, meanwhile, mumbles a prayer under his breath:)
-"Judex ergo cum sedebit
-quidquid latet apparebit
-nil inultum remanebit".
+(Spoletta goes into the torture chamber, returning after a moment. Tosca overcome with emotion, has fallen prostrate on the sofa. Sobbing she appeals to Scarpia. He stands silent and impassive. Spoletta, meanwhile, mumbles a prayer under his breath:)
 
 TOSCA
 What have I done to you in my life?
-It is I you torture so. It is
-My spirit...
-(bursts into convulsive sobs)
-Yes, my spirit you are torturing.
+It is I you torture so!...
+You torture my soul...
+(bursts into sobs, whispering)
+Yes, my soul you are torturing!
 
 SPOLETTA
-(continues to pray)
-Nil inultum remanebit!
+(muttering in a posture of prayer)
+Judex ergo, cum sedebit,
+Quidquid latet apparebit,
+[[Nil inultum remanebit|From  Dies Irae: When the Judge is seated, Whatever is hidden shall be revealed, Nothing shall remain unavenged]].
 
-(Scarpia profiting from Tosca’s breakdown goes towards the torture chamber and orders the resumption of the torment. There is a piercing cry, Tosca leaps up, and in a choking voice says rapidly to Scarpia:)
+(Taking advantage of Tosca’s prostration, Scarpia moves toward the torture chamber and signals for the torment to resume—a horrible scream is heard—Tosca springs to her feet and immediately, in a stifled voice, says rapidly to Scarpia:)
 
 TOSCA
-In the well, in the garden...
+In the well... in the garden...
 
 SCARPIA
-Angelotti is there?
+Angelotti is there?...
 
 TOSCA
+(muffled)
 Yes.
 
 SCARPIA
@@ -1657,7 +1661,7 @@ Enough, Roberti!
 
 SCIARRONE
 (re-opening the door)
-He has fainted!
+He fainted!
 
 TOSCA
 (to Scarpia)
@@ -1665,9 +1669,9 @@ Murderer!
 I want to see him.
 
 SCARPIA
-Bring him here.
+Bring him here...
 
-(Sciarrone re-enters and then Cavaradossi, in a faint, carried by the policemen who lay him on the sofa. Tosca runs up, but on seeing her lover spattered with blood, she covers her face in fright and horror. Then ashamed of her show of weakness, she kneels beside Cavaradossi, kissing him and weeping. Sciarrone, Roberti, the judge and the scribe go out at the rear. At a sign from Scarpia, Spoletta and the policemen stay behind.)
+(Sciarrone re-enters, and immediately the unconscious Cavaradossi appears, carried by the guards who lay him on the couch. Tosca rushes to him, but the horror of seeing her lover bloodied is so overwhelming that, in dismay, she covers her face to avoid looking at him — then, ashamed of this weakness, she kneels beside him, kissing him and weeping. Sciarrone, the Judge, Roberti, and the Scribe exit at the back, while, at a signal from Scarpia, Spoletta and the guards halt.)
 
 CAVARADOSSI
 (as he comes to)
@@ -1681,207 +1685,222 @@ CAVARADOSSI
 It is you?
 
 TOSCA
+(warmly)
 How you have suffered,
-Oh my soul! But this foul villain
-Will pay for it!
+My soul!... But the just
+God will punish him!
 
 CAVARADOSSI
-Did you speak?
+Tosca, Did you speak?
 
 TOSCA
-No, beloved...
+No, my love...
 
 CAVARADOSSI
-Truly not?
+Really?
 
 SCARPIA
 (loudly to Spoletta)
-In the well...
-In the garden. Get him, Spoletta.
+In the well
+of the garden. Go, Spoletta!
 
-(Exit Spoletta. Cavaradossi has heard; he rises threateningly towards Tosca, but his strength fails him and he falls back 00 the sofa, bitterly reproachful as he exclaims:)
+(Spoletta exits; Cavaradossi, having overheard, rises threateningly toward Tosca; then his strength fails him and he sinks onto the sofa, exclaiming reproachfully and bitterly to Tosca:)
 
 CAVARADOSSI
-Ah, you have betrayed me!
+You have betrayed me!
 
 TOSCA
 (beseeching)
 Mario!
 
 CAVARADOSSI
-(rejecting her embrace and thrusting her from him)
-Accursed woman!
+(pushing away Tosca, who is clinging tightly to him)
+Damn you!
 
 SCIARRONE
-(bursting in, breathless)
-Excellency! Bad news!
+(suddenly bursting in, breathless)
+Excellency! What news!...
 
 SCARPIA
 (taken aback)
-What are you looking so worried about?
+What does that pitiful look mean?
 
 SCIARRONE
-It is news of defeat!
+News of defeat...
 
 SCARPIA
-How? Where? What defeat?
+What defeat? How? Where? 
 
 SCIARRONE
-At Marengo.
+At Marengo...
 
 SCARPIA
-(impatient)
+(impatiently, shouting)
 Blockhead!
 
 SCIARRONE
-Bonaparte has won!
+Bonaparte is victor!
 
 SCARPIA
-And Melas?
+Melas...
 
 SCIARRONE
-No. Melas has fled!
+No! Melas is fleeing!...
 
-(Cavaradossi, having listened to Sciarrone with anxious expectation, now, in sheer enthusiasm, finds the strength to rise threateningly towards Scarpia)
+(Cavaradossi, having listened to Sciarrone’s words with mounting anxiety, finds the strength in his own fervor to rise threateningly before Scarpia.)
 
 CAVARADOSSI
 Victory! Victory!
-The avenging dawn now rises
+[[The avenging dawn rises|The register is lifted along with Cavaradossi's spirit]]
 To make the wicked tremble!
-And liberty returns,
-The scourge of tyrants!
+Liberty rises, down fall tyrannies!
+In the suffering of my martyrdom
+You will see me rejoice...
+Your heart trembles, o Scarpia, butcher!
+
+(Tosca, clinging desperately to Cavaradossi, attempts, with broken words, to silence him.)
 
 TOSCA
-(trying desperately to calm him)
-Mario, be still!
-Have pity on me!
-
-CAVARADOSSI
-You see me now rejoice
-In my own suffering...
-And now your blood runs cold,
-Hangman, Scarpia!
-
-(Tosca clutches Cavaradossi and with a rush of broken words tries to calm him, while Scarpia answers with a sardonic smile.)
+Mario, be quiet, have pity on me!
 
 SCARPIA
-Go, shout your boasts! Pour out
-The last dregs of your vile soul!
-Go, for you die,
-The hangman's noose awaits you.
-(shouts to the policeman)
-Take him away!
-
-(Sciarrone and the policemen seize Cavaradossi and drag him towards the door. Tosca makes a supreme effort to hold on to him, but they thrust her brutally aside.)
+(stares cynically at Cavaradossi)
+Boast, shout! - Hasten to 
+reveal to me the dregs 
+of your guilty soul!
+Go! - Moribund,
+The noose awaits you!
+(and irritated by Cavaradossi's words, he shouts to the guards:)
+Take him away from me!
+(Sciarrone and the guards seize Cavaradossi and drag him toward the door — Tosca, with a supreme effort, tries to cling to Cavaradossi, but in vain: she is brutally thrust aside.)
 
 TOSCA
-Mario, with you...
+Mario... with you...
+(The guards lead Cavaradossi away; Sciarrone follows them. Tosca rushes to follow Cavaradossi, but Scarpia positions himself in front of the door and closes it, pushing Tosca back.)
 
 SCARPIA
 Not you!
 
-(The door closes and Scarpia and Tosca remain alone.)
+FITH SCENE
 
 TOSCA
-(moaning)
+(like a whimper)
 Save him!
 
 SCARPIA
-I?... You rather!
-(He goes to the table, notes his supper interrupted midway, and again is calm and smiling)
+Me?... You rather!
+(approaches the table, sees his half-finished dinner, and returns, calm and smiling)
 My poor supper was interrupted.
 (sees Tosca, dejected and motionless, still at the door)
-So downhearted? Come, my fair lady.
+So dejected?... Come now, my fair lady,
 Sit down here. Shall we try to find
 Together a way to save him?
-(Tosca bestirs herself and looks at him. Scarpia, still smiling, sits down and motions to her to do the same.)
-Well then, sit down, and we shall talk.
-And first, a sip of wine. It comes from Spain.
-(Refils the glass and offers it to Tosca)
-A sip to hearten you.
+(Tosca rouses herself and looks at him; Scarpia continues to smile and sits down, simultaneously motioning for Tosca to sit.)
+Well then... sit down... and let's chat...
+(polishes a glass with a napkin, then holds it up to the light of the candelabra)
+And first, 
+a drink. It's wine from Spain.
+(fills the glass and offers it to Tosca)
+A drink 
+(kindly)
+to hearten you.
 
 TOSCA
-(still staring at Scarpia, she advances towards the table. She sits resolutely facing him, then asks in a tone of the deepest contempt:)
+(She sits facing Scarpia, gazing fixedly at him. Resting her elbows on the table, she supports her face with her hands and, in a tone of the deepest scorn, asks Scarpia:)
 How much?
 
 SCARPIA
-(imperturbable, as she pours his drink)
+(imperturbable, as he pours himself a drink)
 How much?
+
+TOSCA
+Your price!...
+
+SCARPIA
 (laughs)
+Indeed — they call me venal, but to a beautiful woman
+(insinuatingly and pointedly)
+I do not sell myself for mere currency.
+If I must betray
+my sworn faith... I want different goods.
+I have waited for this hour!
+Already in the past I burned
+With passion for the Diva!
+But just a moment ago I beheld you
+as I had never seen you before!
+(extremely excited, stands up)
+Those tears of yours were lava
+To my senses and that look
+That shot darts of hatred against me, 
+Inflamed my desires!...
+Agile as a leopard
+You grabbed your lover;
+Ah! In that instant
+I vowed you would be mine!...
+Mine!
+(approaches, reaching out his arms toward Tosca; she, having listened motionless and petrified to Scarpia’s lustful words, suddenly springs up and takes refuge behind the sofa.)
 
 TOSCA
-What is your price?
+Ah!
 
 SCARPIA
-Yes, they say that I am venal, but it is not
-For money that I will sell myself
-To beautitul women. I want other recompense
-If I am to betray my oath of office.
-I have waited for this hour.
-Already in the past I burned
-With passion for the Diva.
-But tonight I have beheld you
-In a new role I had not seen before.
-Those tears of yours were lava
-To my senses and that fierce hatred
-Which your eyes shot at me, only fanned
-The fire in my blood.
-Supple as a leopard
-You enrapped your lover. In that instant
-I vowed you would be mine!
-Mine! Yes, I will have you...
-
-(Rises and stretches out his arms towards Tosca. She has listened motionless to his wanton tirade. Now she leaps up and takes refuge behind the sofa.)
+(quasi inseguendola)
+Yes, I  will have you!...
 
 TOSCA
-(running towards the window)
-I’ll jump out first!
+(horrified, runs to the window)
+I would sooner throw myself down!
 
 SCARPIA
 (coldly)
-I hold your Mario in pawn!
+I hold your Mario
+as a pledge!...
 
 TOSCA
-Oh, wretch
-Oh, ghastly bargain...
-
-(It suddenly occurs to her to appeal to the Queen, and she runs to the door.)
+Ah! Wretch...
+the horrible bargain!
+(the idea of going to the Queen flashes through her mind, and she runs toward the door)
 
 SCARPIA
-(ironically)
-I do you no violence. Go. You are free.
-But your hope is vain: the Queen would merely
-Grant pardon to a corpse
-(Tosca draws back in fight and, her eyes fixed on Scarpia, drops on the sofa. She then looks away from him with a gesture of supreme contempt.)
-How you detest me!
+(guessing his thoughts, steps aside)
+I will do you no violence. You are free.
+You may go.
+(Tosca, with a cry of joy, moves to leave; Scarpia holds her back with a gesture and an ironic laugh)
+But it is a vain hope... the Queen
+would grant a pardon only to a corpse!
+(Tosca recoils in terror and, staring at Scarpia, sinks onto the sofa; then she tears her gaze away from him with a look of utter disgust and hatred)
+How you hate me!
+(with conviction and self-satisfaction)
 
 TOSCA
-Ah! God!
+(with utmost hatred and contempt)
+Ah! God!...
 
 SCARPIA
 (approaching)
-Even so, even so I want you!
+This is how I want you!
 
 TOSCA
-(with loathing)
-Don't touch me, devil! I hate you, hate you!
-Fiend, base villain!
-(flees from him in horror)
+(exasperated)
+Don't touch me, demon! 
+I hate you, hate you, you base, foul wretch!
+(flees from Scarpia in horror)
 
 SCARPIA
-What does it matter?
-Spasms of wrath or spasms of passion...
-
-TOSCA
-Foul villain!
-
-SCARPIA
-You are mine!
-(trying to seize her)
+What does it matter?!
+(moving even closer to her)
+Spasms of wrath... spasms of passion!
 
 TOSCA
 Wretch!
+
+SCARPIA
+(trying to seize her)
+Mine!
+
+TOSCA
 (retreats behind the table)
+Wretch!
 
 SCARPIA
 (pursuing her)
@@ -1889,53 +1908,72 @@ Mine!
 
 TOSCA
 Help! Help!
-
 (A distant roll of drums draws slowly near, then fades again into the distance.)
 
 SCARPIA
+(halting)
 Do you hear?
-It is the drum that leads the way
+It is the drum. It begins. It leads the way
 For the last march of the condemned. Time passes!
 (Tosca listens in terrible dread, and then comes back from the window to lean exhausted on the sofa.)
-Are you aware of what dark work is done
-Down there? They raise a gallows. By your wish,
-Your Mario has but one more hour to live.
-(coldly leans on a corner of the sofa and stares at Tosca)
+Do you know... what dreadful work is being carried out
+Down there? 
+There... They are raising the gallows!
+(Tosca makes a gesture of despair and terror)
+By your wish,
+Your Mario has but one hour left to live.
+(coldly leans against the corner of the table, continuing to watch Tosca. Tosca, overcome with grief, sinks onto the sofa. Scarpia coldly goes to lean against the corner of the table, pours himself some coffee, and sips it while continuing to watch Tosca.)
 
 TOSCA
-I lived for art. I lived for love:
-Never did I harm a living creature!...
+(in deepest grief)
+[[I lived for art, I lived for love|Also "I lived on art, I lived on love", meaning "my life consisted of art and love."]],
+Never did I harm a living soul!...
 Whatever misfortunes I encountered
-I sought with secret hand to succour...
+I sought with discreet hand to succour...
 Ever in pure faith,
 My prayers rose
-In the holy chapels.
+To the holy tabernacles.
 Ever in pure faith,
-I brought flowers to the altars.
-In this hour of pain, why,
-Why, oh Lord, why
-Dost Thou repay me thus?
-Jewels I brought
+I brought flowers to the altar.
+(rising)
+In the hour of sorrow,
+Why, why, Lord, 
+Why do you reward me thus?
+I gave Jewels
 For the Madonna's mantle,
-And songs for the stars in heaven
-That they shone forth with greater radiance.
-In this hour of distress, why,
-Why, oh Lord,
-Why dost Thou repay me thus?
-(kneeling before Scarpia)
-Look at me, oh, behold!
-With clasped hands I beseech you!
-And, vanquished, I implore
-The help of your word!
+And I gave my song
+to the starts, to the heavens, that thus shone more beautifully.
+In the hour of sorrow, 
+Why, why, Lord,
+Why do you reward me thus?
+(sobbing)
 
 SCARPIA
-Tosca you are too beautiful and too loving.
-I yield to you. And at a paltry price;
-You ask me for a life. I ask of you an instant.
+(approaching Tosca again)
+Decide!
+
+TOSCA
+You want me supplicant at your feet!
+(kneeling before Scarpia)
+Look,
+(sobbing)
+I stretch out my clasped hands to you!
+(raising her clasped hands)
+See... look...
+(in a tone of despair)
+and at the mercy of a word from you,
+vanquished, I await...
+(dejected)
+
+SCARPIA
+You are too beautiful, Tosca, and too 
+loving.
+I yield. And for a paltry price;
+You ask me for a life. I ask of you an instant!
 
 TOSCA
 (rising with great contempt)
-Go, go, you fill me with loathing!
+Go! Go! You fill me with loathing!
 
 (A knock at the door)
 
@@ -1943,16 +1981,16 @@ SCARPIA
 Who's there?
 
 SPOLETTA
-(enters breathless)
-Excellency, Angelotti
-Killed himself when we arrived.
+(entering in great haste and breathless)
+Excellency, Angelotti upon our arrival
+killed himself.
 
 SCARPIA
 Well, then, have him hanged
-Dead from the gibbet. The other prisoner?
+Dead from the gallows! The other prisoner?
 
 SPOLETTA
-The Cavalier Cavaradossi?
+Cavalier Cavaradossi?
 Everything is ready, Excellency.
 
 TOSCA
@@ -1962,22 +2000,22 @@ God help me!
 SCARPIA
 (to Spoletta)
 Wait.
-(to Tosca)
-Well?
-(Tosca nods assent. She weeps with shame and hides her face. to Spoletta)
+(softly to Tosca)
+Well then?
+(Tosca nods; weeping with shame, she buries her face in the sofa cushions. To Spoletta)
 Listen...
 
 TOSCA
-(suddenly interrupting)
-But I demand that he be freed this instant...
+(suddenly interrupting Scarpia)
+But I demand that he be freed this instant!
 
 SCARPIA
 (to Tosca)
-We must dissemble. I cannot openly
-Grant pardon to him. All must believe
-The Cavalier is dead.
-(points to Spoletta)
-This trusted man of mine will see to it.
+We must pretend. I cannot
+grant an open pardon. Everyone
+must believe the Cavaliere is dead.
+(gestures toward Spoletta)
+This trusted man will see to it.
 
 TOSCA
 How can I be sure?
@@ -1986,21 +2024,21 @@ SCARPIA
 By the orders I give him in your presence.
 (to Spoletta)
 Spoletta, shut the door.
-(Spoletta shuts the door and comes back to Scarpia)
-I have changed my mind.
-The prisoner shall be shot...
-(Tosca starts with terror)
-Wait a moment...
-(He fixes on Spoletta a hard, significant glance and Spoletta nods in reply that he has guessed his meaning)
-As we did with Count Palmieri.
+(Spoletta hurriedly closes the door, then returns to Scarpia)
+I have changed my mind...
+The prisoner is to be shot.
+(Tosca starts in terror)
+Wait...
+(he fixes a meaningful gaze on Spoletta, who repeatedly nods to show he understands Scarpia's intent)
+Just as we did with Count Palmieri...
 
 SPOLETTA
 An execution...
 
 SCARPIA
-(significantly stressing his words)
-… A sham one! As we did
-With Palmieri! You understand?
+... A sham one! As we did
+With Palmieri! 
+You understand?
 
 SPOLETTA
 I understand.
@@ -2009,21 +2047,24 @@ SCARPIA
 Go.
 
 TOSCA
-I want to explain to him myself.
+(who has been listening avidly, interjects)
+I want to warn him myself.
 
 SCARPIA
-As you wish.
-(to Spoletta)
-You will let her pass...
-And remember, at four o'clock.
+So be it.
+(to Spoletta, pointing to Tosca)
+Let her pass. Mind you:
+at the fourth hour...
+(emphasizing the point)
 
 SPOLETTA
-Yes. Like Palmieri.
+(deliberately)
+Yes. Like Palmieri...
 
-(Exit Spoletta, Scarpia, near the door, listens to his retreating footsteps, and then his whole behaviour changing, advances towards Tosca flushed with passion.)
+(Exit Spoletta. Scarpia, standing by the door, listens to Spoletta moving away; then, his expression and manner transformed, he approaches Tosca with great passion.)
 
 SCARPIA
-I have kept my promise.
+I kept my promise...
 
 TOSCA
 (stopping him)
@@ -2033,17 +2074,18 @@ Can flee the State together.
 
 SCARPIA
 (gallantly)
-You want to leave?
+So you wish to leave?
 
 TOSCA
+(with convinced tone)
 Yes, for ever.
 
 SCARPIA
 Your wish shall be granted.
-(goes to the desk and begins writing. He stops to ask.)
+(goes to the writing desk; begins to write, pausing to ask Tosca:)
 And which road do you prefer?
 
-(As he writes, Tosca goes up to the table to take, with shaking hand, the glass of wine that Scarpia has poured: but as she lifts it to her lips, her eye falls on a sharply pointed knife that is lying on the table. She sees that Scarpia at this moment is absorbed in writing, and so, with infinite caution, still answering his questions, and never taking her eye from him, she reaches out for the knife.)
+(While Scarpia writes, Tosca approaches the table and, with a trembling hand, picks up the glass of Spanish wine Scarpia had poured; but as she raises the glass to her lips, she spots a sharp, pointed knife on the table. She glances at Scarpia — who is busy writing at that moment — and, with extreme caution, tries to get hold of the knife while answering Scarpia’s questions, all the while keeping a close watch on him.)
 
 TOSCA
 The shortest!
@@ -2053,258 +2095,272 @@ Civitavecchia?
 
 TOSCA
 Yes.
-
-(Finally, she is able to grasp the knife. Still watching Scarpia, she hides it behind her as she leans against the table. He has now finished making out the pass. He puts his seal upon it and folds the paper, and then, opening his arms, advances towards Tosca to embrace her.)
+(At last she manages to take the knife, concealing it behind her back as she leans against the table, all the while keeping a close watch on Scarpia. He finishes writing the safe-conduct, affixes the seal, and folds the paper; then, opening his arms, he approaches Tosca to clasp her to him.)
 
 SCARPIA
 Tosca, now you are mine at last!
-(But his shout of lust ends in a cry of anguish: Tosca has struck him full in the breast.)
-Accursed one!
+(but the voluptuous tone turns into a terrible cry — Tosca has struck him full in the chest, screaming)
+Accursed woman!
 
 TOSCA
-This is the kiss of Tosca!
-
-(Scarpia stretches out an arm towards her, swaying and lurching as he advances, seeking her aid. She eludes him, but is suddenly caught between him and the table, and seeing that he is about to touch her, she thrusts him back in horror. Scarpia crashes to the floor, shrieking in a voice nearly stifled with blood.)
+(shouting)
+This is Tosca's kiss!
 
 SCARPIA
-Help! I am dying! Help! I die!
+(in a choked voice)
+Help! I’m dying!
+(Scarpia stretches out his arm toward Tosca, staggering closer as if seeking help. Tosca evades him but suddenly finds herself trapped between Scarpia and the table; seeing that he is about to touch her, she pushes him away in horror. Scarpia falls.)
+Help! I’m dying!
 
 TOSCA
-(She watches him as he struggles helplessly on the floor and clutches at the sofa, trying to pull himself up)
-Is your blood choking you?
-And killed by a woman!
-Did you torment me enough?
-Can you still hear me? Speak!
-Look at me! I am Tosca! Oh, Scarpia!
+(with hatred toward Scarpia)
+Is the blood choking you?
+(Scarpia struggles in vain and tries to rise, clutching the sofa)
+Killed by a woman!
+You tortured me so cruelly!...
+Can you still hear? Speak!... Look at me!...
+I am Tosca!... Oh, Scarpia!
 
 SCARPIA
-(after a last effort he falls back)
-Help! Help!
+(makes a final effort, then falls backward, suffocating)
+Help, help!
+(gasping)
+I'm dying!
 
 TOSCA
-(bending over him)
-Is your blood choking you?
-Die accursed! Die! Die! Die!
-(seeing him motionless)
-He is dead! And now I pardon him!
-All Rome trembled before him!
+(leaning over Scarpia's face)
+Die, you wretch! Die, die!
+(Scarpia lies rigid)
+He is dead! [[Now I forgive him|Dramatic shift in tone and in the music, much lower pitch in the voice]]!
+(Without taking her eyes off Scarpia's corpse, she goes to the table, takes a bottle of water, and—soaking a napkin—washes her fingers; then she smooths her hair while looking in the mirror and searches for the safe-conduct on the writing desk. She remembers the safe-conduct... she looks for it on the desk but does not find it; she searches again and finally sees the safe-conduct in Scarpia's clenched hand. She lifts Scarpia's arm — letting it drop back down limply—after removing the safe-conduct, which she hides against her bosom.)
+And all of Rome trembled before him!
+(starts to leave but she regrets; she goes to fetch the two candles from the shelf on the left, lights them from the candelabra on the table, and then extinguishes the latter. Places one lit candle to the right of Scarpia’s head and the other to the left. Looks around again and, spotting a crucifix, takes it down from the wall; carrying it reverently, sshe kneels to place it on Scarpia’s chest. Rises and leaves with great caution, closing the door behind her.)
 
-Her eyes still fixed on the body, Tosca goes to the table, puts down the knife, takes a bottle of water, wets a napkin and washes her fingers. She then goes to the mirror to arrange her hair. Then she hunts for the safe-conduct pass on the desk, and not finding it there, she turns and sees the paper in the clenched hand of the dead man. She takes it with a shudder and hides it in her bosom. She puts out the candle on the table and is about to leave when a scruple, detains her. She returns to the desk and takes the candle there, using it to relight the other; and then places one to the right and the other to the left of Scarpia's head. She rises and looks about and notices a crucifix on the wall. She removes it with reverent care, and returning to the dead man, kneels at his side and places it on his breast. She rises, approaches the door cautiously, goes out and closes it.
 ACT THREE
 
-(The platform of Castel Sant' Angelo At left, a casemate: there is a lamp, large registry book with writing materials, a bench and a chair. A crucifix hangs on one of the casemate walls with a lamp in front. To the right, the door to a small stairway leading up to the platform. In the distance, the Vatican and the Basilica of St. Peter's. It is still night, but gradually darkness is dispelled by the grey, uncertain light of the hour before dawn. Church bells toll for matins. The voice of a shepherd passing with his flock can be heard.)
+FIRST SCENE
+(The platform of Castel Sant'Angelo. On the left, a casemate: a table is placed there, holding a lamp, a large ledger, and writing materials; there is also a bench and a chair. On one wall of the casemate hangs a crucifix, with a lamp suspended before it. On the right, the opening of a small staircase leading up to the platform. In the background, the Vatican and St. Peter's. Night —  a clear sky, glittering with stars. The distant bells of a herd are heard; the sound gradually fades away.)
 
-VOICE OF SHEPHERD
-I give you sighs,
-There are as many
-As there are leaves
-Driven by the wind
-You may scorn me, and my heart is sick.
-Oh lamp of gold, I die for you
+<img:https://images.unsplash.com/photo-1674511470738-883b72bd0225?q=80&w=2676&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D|Castel Sant'Angelo>
 
-(A jailer with a lantern mounts the stairs from below. He goes to the casemate and lights the light in front of the crucifix, and then the one on the table He sits down and waits, half drowsing. Soon a picket of guards, led by a Sergeant, emerges from the stairway with Cavaradossi. The picket halts as the Sergeant leads Cavaradossi to the casemate and hands a note to the jailer. The latter examines it, opens the registry book and writes, as he questions the prisoner.)
+VOICE OF A SHEPHERD
+[[Of sighs|The shepherd's song in Roman vernacular, along with the morning bells, evokes an idyllic image of the common people of Rome awakening]],
+I give you as many
+As the leaves
+Stirred by the winds.
+
+You despise me.
+I take it to heart,
+Golden light,
+[[You make me die|This is a common expression, meaning "you break my heart"]]!
+
+(The uncertain, grey light preceding dawn: church bells are ringing to announce the morning. A Jailer carrying a lantern comes up the stairs, enters the casemate, and lights the lamp hanging before the crucifix, then the one on the table. He then goes to the edge of the platform and looks down into the courtyard below to see if the squad of soldiers is arriving with the condemned man. He meets a sentry patrolling the platform; after exchanging a few words with him, he returns to the casemate, sits down, and waits, half-drowsy. Later, a squad led by a guard sergeant comes up onto the platform escorting Cavaradossi; the squad halts, and the sergeant leads Cavaradossi into the casemate, handing a paper to the Jailer. — The Jailer examines the paper, opens the register, and writes in it while questioning him:)
+
+SECOND SCENE
 
 JAILER
 Mario Cavaradossi?
 (Cavaradossi bows his head in acknowledgement. The jailer hands the pen to the Sergeant.)
 For you
-(to Cavaradossi)
+(The Sergeant signs the register, then leaves with the soldiers, going down the stairs)
 You have one hour.
 A priest awaits your call.
 
 CAVARADOSSI
-No... but I have a last favour to ask of you.
+No! But one last favour
+I ask of you...
 
 JAILER
 If I can...
 
 CAVARADOSSI
-One very dear person
-I leave behind me. Permit me
+I leave behind
+One dear person. Allow me
 To write her a few lines.
 (taking a ring from his finger)
 This ring is all that remains
-Of my possessions.
+Of my possessions!
 If you will promise to give her
 My last farewell,
-Then it is yours.
+Then it is yours...
 
 JAILER
 (hesitates a little, then accepts. He motions Cavaradossi to the chair at the table, and sits down on the bench.)
-Write.
+Write...
 
 CAVARADOSSI
-(begins to write, but after a few lines a flood of memories invades him.)
-And the stars shone and the earth was perfumed.
-The gate to the garden creaked
-And a footstep rustled the sand to the path...
-Fragrant, she entered
+(remains deep in thought, then begins to write... but after tracing a few lines, he is overcome by memories and stops writing, lost in thought.)
+And the stars were shining... 
+And the earth was perfumed...
+The gate to the garden creaked...
+And a footstep grazed the sand...
+Fragrant, she entered,
 And fell into my arms...
-Oh soft kisses, oh sweet abandon,
+Oh soft kisses, oh languid caresses,
 As I trembling
-Unloosed her veils and disclosed her beauty.
-Oh vanished forever is that dream of love,
-Fled is that hour,
-And desperately I die.
-And never before have I loved so much!
+Delivered her beautiful form from the veils!
+Vanished forever is my dream of love,
+The hour has fled,
+And I die in despair!
+And [[never have I loved life so much|Love here means longing, not enjoyment in the present moment.]]!
+(bursts into sobs, covering his face with his hands. Spoletta enters from the stairs, accompanied by the Sergeant and followed by Tosca; the Sergeant carries a lantern. Spoletta gestures to Tosca to show him where Cavaradossi is, then summons the Jailer; he goes back down with him and the Sergeant, but not before ordering a sentry stationed at the far end to keep watch over the prisoner.)
 
-(Bursts into sobs, Spoletta appears at the stairhead, the Sergeant at his side and Tosca following. Spoletta indicates where Cavaradossi is and then calls the Jailer. He warns the guard at the rear to keep careful watch on the prisoner, and then leaves with the Sergeant and the Jailer. Tosca sees Cavaradossi weeping his head in his arms. She lifts his head, and he jumps to his feet in astonishment. Tosca shows him a note but is far too overcome with emotion to speak.)
+THIRD SCENE
+(Tosca, who has remained in a state of great agitation, sees Cavaradossi weeping; she rushes to his side and, unable to speak due to overwhelming emotion, lifts his head with both hands while simultaneously showing him the safe-conduct pass. Upon seeing Tosca, Cavaradossi springs to his feet in surprise and reads the document she holds out to him.)
 
 CAVARADOSSI
 (reading)
-Ah! A safe-conduct for Floria Tosca...
+A safe-conduct for Floria Tosca...
+... and for the Cavalier accompanying her.
 
 TOSCA
-(reading with him in a hoarse and shaken voice)
-… and for the Cavalier accompanying her.
+(reading along with him in a breathless, agitated voice)
+... and for the Cavalier accompanying her.
 (to Cavaradossi with an exultant cry)
 You are free!
 
 CAVARADOSSI
-(studies the pass and sees the signature)
-Scarpia!
-Scarpia yields? This is the first
+(looks at the paper; spots the signature and looks pointedly at Tosca)
+Scarpia!...
+Scarpia yields? This is his first
 Act of clemency...
 
 TOSCA
 And his last!
+(picks up the safe-conduct and puts it back in a bag)
 
 CAVARADOSSI
-What?
+What are you saying?
 
 TOSCA
+(snapping)
 Either your blood or my love
-He demanded: my entreaties and my tears were useless.
-Wild with horror, I appealed in vain
-To the Madonna and the Saints.
-The damnable monster told me
-That already the gallows
-Stretched their arms skyward!
-The drums rolled and
-He laughed, the evil monster, laughed,
-Ready to spring and carry off his prey!
-Is it yes? He asked, and yes, I promised
-Myself to his lust. But there at hand
-A sharp blade glittered:
-He wrote out the liberating pass,
-And came to claim the horrible embrace -
-That pointed blade I planted in his heart.
+He demanded... my entreaties and my tears were useless.
+In vain, mad with horror,
+I turned to the Madonna and the Saints...
+The wicked monster said: already
+the gallows stretch their arms to the sky!
+The drums rolled...
+He laughed, the wicked monster... He laughed...
+Ready to seize his prey!
+"You are mine!" - Yes - I promised
+Myself to his lust. There at hand
+A sharp blade glittered...
+He wrote the liberating paper,
+And came to claim the horrible embrace...
+That blade I planted in his heart.
 
 CAVARADOSSI
-You, with your own hand you killed him?
-You tender, you gentle - and for me!
+You?!... by your own hand killed him? - You, pious,
+You benign, - and for me!
 
 TOSCA
-My hands were reaking with his blood!
+My hands were 
+filthy with his blood!
 
 CAVARADOSSI
 (lovingly taking her hands in his)
-My Saviour!
 Oh sweet hands pure and gentle,
-Oh hands meant for the fair works of piety,
-Caressing children, gathering roses,
-For prayers when others meet misfortune...
-Then it was in you, made strong by love,
+Oh pious hands meant for works of beauty,
+for caressing children, gathering roses,
+For praying, clasped, for relief from misfortune...
+Then it was in you, hardened by love,
 That justice placed her sacred weapons?
-You dealt out death, victorious hands,
-Oh sweet hand pure and gentle.
+You dealt death, victorious hands,
+Oh sweet hands pure and gentle!...
 
 TOSCA
 (disengaging her hands from his)
-Listen, the hour is near. I have already
-Collected my gold and jewels. A carriage is waiting...
-But first... Oh, laugh at this my love... First
-You will be shot, in play and pretence, with
-Unloaded arms... mock punishment.
-Fall down at the shot,
-The soldiers leave, and we are safe!
-And then to Civitavecchia, and there a ship.
+Listen... the hour is near. I have already. collected
+(showing her bag)
+my gold and jewels... A carriage is waiting...
+But first... laugh at this my love... First
+You will be shot - in a mock execution - with unloaded arms...
+A mock punishment. Upon the shot... Fall down.
+The soldiers leave... and we are safe!
+And then to Civitavecchia... and there a ship...
 And we're away by sea!
 
 CAVARADOSSI
 Free!
 
 TOSCA
-Free!
+Who still grieves
+on earth? Do you smell the scent of the roses?!...
+Doesn't it seem to you that all things
+are expecting the sun, filled with love?...
 
 CAVARADOSSI
-Away by sea!
-
-TOSCA
-Where now have pain and sorrow fled?
-Do you smell the aroma of the roses?
-Do you feel that all things on the earth
-Await the sun enamoured?
-
-CAVARADOSSI
-(with tender exaltation)
-Only for you did death taste bitter for me,
-And only you invest this life with splendour.
-All joy and all desire, for my being,
-Are held in you as heat within flame.
-I now shall see through your transfiguring eyes,
-The heavens blaze and the heavens darken
+(with most tender exaltation)
+Only because of you was death bitter to me,
+And from you only life gains its splendor,
+In my being all joy and all desire
+Grow from you, as heat from a flame.
+I shall see through your transfiguring eyes,
+The heavens blaze and darken
 And the beauty of all things remarkable
 From you alone will have their voice and colour.
 
 TOSCA
-The love that found the way to save your life
-Shall be our quide on earth, our pilot on the waters,
-And make the wide world lovely to our eyes;
-Until together we shall fade away
-Beyond the sphere of earth, as light clouds fade,
-At sundown, high above the sea.
-(They are stirred and silent. Then Tosca recalled to reality, looks about uneasily)
+Love that found the way to save your life
+Shall be our guide on earth, and on the waters
+our pilot...
+And will make the world gaze in wonder.
+Until, united with the celestial spheres,
+we shall vanish, like light clouds
+high above the sea
+(gazing as if in a vision)
+at sunset,
+(they remain stirred and silent; then Tosca, recalled by the reality of the situation, looks around uneasily)
 They still don't come...
 (turning to Cavaradossi with affectionate concern)
-And be careful
-When you hear the shot
-You must fall down at once.
+And be careful... Upon the shot
+You must fall down at once...
 
 CAVARADOSSI
-(reassuring her)
+(sad)
 Have no fear,
 I'll fall on the instant, and quite naturally.
 
 TOSCA
 (insisting)
-But be careful not to hurt yourself,
-With my experience in the theatre
-I should know how to manage it.
+But be careful not to hurt yourself!
+With my stage knowledge,
+I would know the move...
 
 CAVARADOSSI
 (interrupting and drawing her to him)
-Speak to me again as you spoke before.
+Speak to me again as you spoke before,
 So sweet is the sound of your voice.
 
 TOSCA
-(carried away with rapture)
-Together in exile
-We shall bear our love through the world.
-Harmonies of colour...
+(surrenders herself, almost in ecstasy, then gradually becoming impassioned)
+United and exultant,
+we shall spread our love throughout the world,
+harmonies of colors...
 
 CAVARADOSSI
-And harmonies of song!
+(getting excited)
+We shall spread harmonies of song!
 
 TOSCA and CAVARADOSSI
 (ecstatically)
-Triumphant...
-The soul trembles
-With new hope
-In heavenly
-Increasing ardour.
+Triumphant, with new hope
+the soul quivers in growing
+heavenly ardour.
 And in harmonious flight
-The spirit soars
-To the ecstasy of love.
+The soul soars
+Towards the ecstasy of love.
 
 TOSCA
 With a thousand kisses I shall seal your eyes,
 And call you by a thousand names of love.
 
-(Meanwhile a squad of soldiers has entered from the stairway. The officer in command ranges them to the rear. Enter Spoletta, the Sergeant and the Jailer, Spoletta giving the necessary orders. The sky lightens; dawn appears; a bell strikes four. The Jailer goes to Cavaradossi, removes his cap and nods towards the officer.)
+FINAL SCENE
+(Meanwhile, a squad of soldiers has come up the steps, led by an officer who stations them at the back; Spoletta, the Sergeant, and the Jailer follow. Spoletta gives the necessary instructions. The sky grows brighter; it is dawn: the hour of four strikes. The Jailer approaches Cavaradossi and, removing his cap, points out the officer to him.)
 
 JAILER
-It is time.
+It is time!
 
 CAVARADOSSI
 I am ready.
@@ -2312,101 +2368,107 @@ I am ready.
 (The Jailer takes the registry of the condemned and leaves by the stairway.)
 
 TOSCA
-(to Cavaradossi, speaking low and laughing secretly:)
-Remember: at the first shot, down...
+(to Cavaradossi, in a very low voice and laughing under her breath)
+Remember... upon the first shot... down...
 
 CAVARADOSSI
 (in a low voice, also laughing)
-Down...
+Down.
 
 TOSCA
-And don't get up before I call you...
+And don't get up before 
+I call you...
 
 CAVARADOSSI
-No, beloved!
+No, my love!
 
 TOSCA
-And fall down properly...
+And fall down properly.
 
 CAVARADOSSI
-Like Tosca on the stage...
+(smiling)
+Like Tosca on the stage.
 
 TOSCA
+(seeing him smile)
 You mustn't laugh...
 
 CAVARADOSSI
-So?
+(serious)
+Like this?
 
 TOSCA
-So.
+Like this.
 
-(Their farewells over, Cavaradossi follows the officer. Tosca takes her place on the left side of the casemate, in position, however, to observe what is happening on the platform. She sees the officer and the Sergeant lead Cavaradossi towards the wall directly facing her. The Sergeant wishes to blindfold Cavaradossi, who declines with a smile. The grim preparations begin to strain Tosca's patience.)
-
-TOSCA
-How long is this waiting!
-Why are they still delaying? The sun already rises.
-Why are they still delaying? It is only a comedy,
-I know, but this anguish seems to last for ever!
-
-(The officer and the Sergeant marshall the squad of soldiers before the wall and impart their instructions.)
+(Cavaradossi follows the Officer after bidding farewell to Tosca; she positions herself on the left, inside the casemate, yet in such a way that she can spy on what is happening on the platform. She sees the Officer and the Sergeant leading Cavaradossi to the wall facing her; the Sergeant attempts to blindfold Cavaradossi, but he smilingly refuses. — These grim preparations exhaust Tosca's patience.)
 
 TOSCA
-There! They are taking aim! How handsome
-My Mario is!
-
-(The officer lowers his sabre, the platoon fires and Cavaradossi falls.)
-
-TOSCA
-There! Die! Ah, what an actor!
-
-(The Sergeant goes up to examine the fallen man. Spoletta also approaches to prevent the Sergeant from delivering the coup de grace, and he covers Cavaradossi with a cloak. The officer realtigns the soldiers, the Sergeant withdraws the sentinel from his post at the rear and Spoletta leads the group off by the stairway. Tosca follows this scene with the utmost agitation, fearing that Cavaradossi may lose patience and move or speak before the proper moment. In a hushed voice she warns him:)
-
-TOSCA
+How long is the wait!
+Why are they still delaying?... The sun already rises...
+Why are they still delaying?... It is only a farce,
+I know... but this anguish seems to last for ever!
+(l' Ufficiale e il Sergente dispongono il plotone dei soldati, impartendo gli ordini relativi)
+There!... They are taking aim!...
+How handsome is my Mario!
+(seeing the Officer about to lower his saber, she covers her ears to avoid hearing the report; then she signals Cavaradossi with a nod to fall, saying:)
+There! Die! 
+(seeing him on the ground, she blows him a kiss)
+There's an artist!
+(The Sergeant approaches the fallen man and examines him closely; Spoletta also draws near, pushes the Sergeant aside to prevent him from delivering the coup de grâce, and then covers Cavaradossi with a cloak. The Officer lines up the soldiers; the Sergeant withdraws the sentry stationed at the far end, and then everyone — led by Spoletta — descends the stairs. Tosca is in a state of great agitation, watching these movements closely for fear that Cavaradossi, out of impatience, might move or speak before the right moment. In a hushed voice, to Cavaradossi)
 Oh Mario, do not move...
-They're going now. Be still. They are going down...
-
-(Seeing the platform deserted, she goes to listen at the stairhead. She stands there for a moment in breathless dread as she thinks she hears the soldiers returning. Again in a low voice she warns Cavaradossi:)
-
-TOSCA
-Not yet, you mustn't move...
-
-(She listens: they have all gone. She runs towards Cavaradossi.)
-
-TOSCA
-Up, Mario. Quickly. Come, come. Quickly.
-(she bends down to help Mario to his feet. She raises the cloak and suddenly gasps with terror and astonishment as she looks at her hands.)
-Mario! Mario!
-(kneels and quickly removes the cloak and leaps to her feet pale and terrified)
+They're going... Be still, they are leaving... They are going down...
+(seeing the platform deserted, she goes to listen near the top of the small staircase; she stops there, trembling and breathless, as it suddenly seems to her that the soldiers, instead of moving away, are returning to the platform — she turns to Cavaradossi again, speaking in a low voice)
+Not yet, don't move...
+(listening —  they have all moved away; she goes to the edge and, leaning out cautiously, looks down — she runs toward Cavaradossi)
+Mario, up, quickly!
+Let's go!... Come on!...
+(she bends down to help Cavaradossi rise; suddenly she lets out a stifled cry of terror and surprise, and looks at the hands with which she lifted the cloak)
+Ah!
+(she kneels, quickly removes her cloak, and springs to her feet, livid and terrified)
 Dead! Dead!
-(sobbing she throws herself on Cavaradossi’s body)
-Oh Mario, dead? You? Like this?
-Dead like this? Like this?
-
-(From the courtyard below the parapet and from the narrow stairway come the confused voices of Spoletta, Sciarrone and the soldiers. They draw nearer.)
+(with incoherent words, sighs, and sobs, she throws herself upon Cavaradossi's body, scarcely believing the horrible fate)
+Oh Mario... dead... You... Like this...
+To end like this!! Like this?... Your poor Floria!
+(Meanwhile, from the courtyard below the parapet and up the small staircase, the voices of Sciarrone, Spoletta, and some soldiers are heard — at first indistinct, then drawing ever closer.)
 
 CONFUSED VOICES
-Scarpia stabbed?
-The woman is Tosca!
-Don't let her escape.
+Ah!...
 
-(Spoletta rushes in from the stairway, and behind him Sciarrone shouting and waving at Tosca.)
+SCIARRONE'S VOICE
+Stabbed, I tell you!
+
+CONFUSED VOICES
+Scarpia?
+
+SCIARRONE'S VOICE
+Scarpia.
+
+SPOLETTA'S VOICE
+The woman is Tosca!
+
+VARIOUS VOICES
+(closer)
+Don't let her escape!
+
+THE VOICES OF SPOLETTA and SCIARRONE
+(closer)
+Watch
+the stair exits!
+
+(Spoletta appears on the staircase, while Sciarrone, behind him, shouts to him, pointing at Tosca:)
 
 SCIARRONE
 There she is!
 
 SPOLETTA
 (charging towards Tosca)
-Ah, Tosca you will pay
+Ah! Tosca you will pay
 For his life most dearly!
 
-(Tosca springs to her feet, pushing Spoletta violently, answering:)
+(Tosca springs to her feet and, instead of fleeing from Spoletta, violently pushes him back, replying:)
 
 TOSCA
 With my own!
-
-(Spoletta falls back from the sudden thrust. Tosca escapes and runs to the parapet, she leaps onto it and hurls herself over the ledge, crying:)
-
-TOSCA
-Oh Scarpia! Before God!
-
-Sciarrone and soldiers rush in confusion to the parapet and look down. Spoletta stands stunned and pale.
+(At the unexpected impact, Spoletta stumbles back; Tosca quickly breaks free, rushes past Sciarrone — who is still on the stairs — and, running to the parapet, throws herself into the void, crying out:)
+Oh Scarpia, before God!
+(Sciarrone and some soldiers, having scrambled up in confusion, run to the parapet and look down. Spoletta stands dumbfounded, aghast.)
