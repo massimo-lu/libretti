@@ -89,8 +89,8 @@ Jest with knaves and leave the saints...
 CAVARADOSSI
 And you, unknown beauty…
 Crowned with blond locks!
-Your eyes are blue,
-but Tosca's are dark!
+You have bllue eyes,
+Tosca has dark eyes!
 
 SACRISTAN
 (returning from the back, still scandalized:)
@@ -110,7 +110,7 @@ that compete with the Madonna
 reek of Hell.
 (dries the washed brushes, all the while muttering)
 Jest with knaves and leave the saints...
-And as for those dogs of [[Voltairians|Referring to Voltaire, liberal Franch philosopher and critic of the church. The political background of the opera is introduced.]]
+And as for those [[Voltairians|Referring to Voltaire, liberal Franch philosopher and critic of the church. The political background of the opera is introduced.]] dogs
 enemies of the most Holy Government
 one must not even speak of them!...
 (he places the basin under the scaffolding and the brushes in a vase, near the painter)
@@ -122,7 +122,7 @@ Let us rather make the sign of the cross.
 Excellency, may I go?
 
 CAVARADOSSI
-As you wish.
+Do as you wish!
 (resumes his painting)
 
 SACRISTAN
@@ -135,7 +135,7 @@ I'm not hungry.
 
 SACRISTAN
 (ironically, rubbing his hands)
-Oh! How regretful!
+Oh!... How regretful!...
 (but he cannot suppress a gesture of joy and a look of greed directed at the basket, which he picks up and sets slightly aside; he sniffs two pinches of tobacco)
 Be sure to close up when you leave.
 
@@ -144,7 +144,7 @@ CAVARADOSSI
 Go!...
 
 SACRISTAN
-I'm going.
+I'm going!
 (He moves away towards the back. Cavaradossi, turning his back to the chapel, works. Angelotti, believing the church to be empty, appears behind the gate and inserts the key to open it.)
 
 FOURTH SCENE
@@ -225,7 +225,7 @@ Why was it locked?
 
 CAVARADOSSI
 (with feigned indifference)
-The Sacristan's demands it...
+The Sacristan demands it...
 
 TOSCA
 Who were you talking to?
@@ -304,10 +304,10 @@ scented with thyme,
 by night whispers come forth
 of tiny cupids 
 and perfidious counsels
-that soften the hearts.
+that soften the heart.
 Bloom, oh vast fields, palpitate
 oh sea winds, in the moon's pale glimmer,
-rain pleasures, oh starry vaults!
+rain down pleasures, oh starry vaults!
 Mad love burns for Tosca!
 (resting her head on Cavaradossi's shoulder)
 
@@ -424,7 +424,7 @@ What eyes in the world
 can be a match
 for your dark burning eyes?
 It is in them that my whole being fastens,
-Eyes soft with love and fierce with rage!
+Eyes tender with love and fierce with rage!
 What other eyes in the world can match
 your dark eyes!
 
@@ -462,9 +462,9 @@ Those comforting words...
 Say them again!
 
 CAVARADOSSI
-My life, my restless lover.
+My life, my restless lover,
 I shall always say, "I love you, Floria!"
-Ah! Temper your soul,
+Ah! Still your soul,
 I shall always say "I love you!"
 
 TOSCA

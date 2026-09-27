@@ -76,7 +76,7 @@ CAVARADOSSI
 (al Sagrestano)
 Dammi i colori!
 (Il Sagrestano eseguisce. Cavaradossi dipinge con rapidità e si sofferma spesso a riguardare il proprio lavoro: il Sagrestano va e viene, portando una catinella entro la quale continua a lavare i pennelli. A un tratto Cavaradossi si ristà di dipingere; leva di tasca un medaglione contenente una miniatura e gli occhi suoi vanno dal medaglione al quadro.)
-[[Recondita|From Latin recondĭtus: hidden away, deeply inaccessible, as of thoughts or truths. Higher register than "nascosto" (hidden). Cf.  "verità recondite" (Galilei)]] armonia
+[[Recondita|From Latin recondĭtus: hidden away, deeply inaccessible, as of thoughts or truths. Higher register than "nascosto" (hidden).]] armonia
 di bellezze diverse!...
 È bruna Floria,
 l'ardente amante mia...
@@ -291,7 +291,7 @@ TOSCA
 Lo dici male:
 [[Non la sospiri la nostra casetta|Tosca's love poem begins, the mood is sweet and light with dramatic peaks.]]
 che tutta ascosa nel verde ci aspetta?
-Nido a noi sacro, ignoto al mondo intero,
+[[Nido a noi sacro, ignoto al mondo intero|This ABBA structure (noi - A, sacro -  B, ignoto - B, mondo - A), called a chiasmus, is used a few times in the libretto where the tone shifts and the focus is on one character, along with rhyming lines]],
 pien d'amore e di mister?
 Al tuo fianco sentire
 per le silenziose
@@ -464,7 +464,7 @@ Dilla ancora!
 CAVARADOSSI
 Mia vita, amante inquieta,
 dirò sempre: "Floria, t'amo!"
-Ah ! l'alma acquieta,
+Ah! l'alma acquieta,
 sempre "t'amo!" ti dirò!
 
 TOSCA
