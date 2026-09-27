@@ -1546,11 +1546,11 @@ Will you speak?
 
 TOSCA
 No... monster!
-You torment him... you're killing him!
+You're torturing him... you're killing him!
 
 SCARPIA
-It's your silence
-That torments him much more.
+It is your silence
+That tortures him much more.
 
 TOSCA
 You laugh...
@@ -1559,7 +1559,7 @@ At this ghastly torment?
 SCARPIA
 (with enthusiasm)
 Tosca on stage
-Was never more tragic!
+Was never so tragic!
 
 TOSCA
 (horrified, she moves away from Scarpia, who, seized by a sudden fit of savagery, turns to Spoletta)
@@ -1622,7 +1622,7 @@ TOSCA
 Listen, I can bear no more...
 
 CAVARADOSSI’S VOICE
-Fool, what do you know? What can you say?
+Fool, what do you know?... What can you say?...
 
 SCARPIA
 (furious at Cavaradossi’s words and fearing that they might further encourage Tosca to remain silent, he shouts terrifyingly at Spoletta:)
@@ -1632,7 +1632,7 @@ Shut him up!
 
 TOSCA
 What have I done to you in my life?
-It is I you torture so!...
+It is me you torture so!...
 You torture my soul...
 (bursts into sobs, whispering)
 Yes, my soul you are torturing!
@@ -1657,7 +1657,7 @@ Yes.
 
 SCARPIA
 (loudly, towards the torture chamber)
-Enough, Roberti!
+Enough, Roberti.
 
 SCIARRONE
 (re-opening the door)
@@ -1753,7 +1753,7 @@ CAVARADOSSI
 Victory! Victory!
 [[The avenging dawn rises|The register is lifted along with Cavaradossi's spirit]]
 To make the wicked tremble!
-Liberty rises, down fall tyrannies!
+[[Liberty rises, down fall tyrannies|Chiasmus]]!
 In the suffering of my martyrdom
 You will see me rejoice...
 Your heart trembles, o Scarpia, butcher!
@@ -1841,7 +1841,7 @@ Mine!
 (approaches, reaching out his arms toward Tosca; she, having listened motionless and petrified to Scarpia’s lustful words, suddenly springs up and takes refuge behind the sofa.)
 
 TOSCA
-Ah!
+[[Ah!|Tosca's scream of horror is the climax of the aria]]
 
 SCARPIA
 (quasi inseguendola)
@@ -1867,7 +1867,7 @@ I will do you no violence. You are free.
 You may go.
 (Tosca, with a cry of joy, moves to leave; Scarpia holds her back with a gesture and an ironic laugh)
 But it is a vain hope... the Queen
-would grant a pardon only to a corpse!
+would be granting a pardon to a corpse!
 (Tosca recoils in terror and, staring at Scarpia, sinks onto the sofa; then she tears her gaze away from him with a look of utter disgust and hatred)
 How you hate me!
 (with conviction and self-satisfaction)
@@ -1907,7 +1907,7 @@ SCARPIA
 Mine!
 
 TOSCA
-Help! Help!
+Help!
 (A distant roll of drums draws slowly near, then fades again into the distance.)
 
 SCARPIA
@@ -1926,7 +1926,7 @@ Your Mario has but one hour left to live.
 
 TOSCA
 (in deepest grief)
-[[I lived for art, I lived for love|Also "I lived on art, I lived on love", meaning "my life consisted of art and love."]],
+[[I lived for art, I lived for love|Also literally "I lived on art, I lived on love", meaning "my life consisted of art and love" more than "I dedicated my life to art and love."]],
 Never did I harm a living soul!...
 Whatever misfortunes I encountered
 I sought with discreet hand to succour...
@@ -1939,10 +1939,10 @@ I brought flowers to the altar.
 In the hour of sorrow,
 Why, why, Lord, 
 Why do you reward me thus?
-I gave Jewels
+I gave jewels
 For the Madonna's mantle,
 And I gave my song
-to the starts, to the heavens, that thus shone more beautifully.
+to the stars, to the heavens, which smiled more beautifully for it.
 In the hour of sorrow, 
 Why, why, Lord,
 Why do you reward me thus?
@@ -1973,7 +1973,7 @@ You ask me for a life. I ask of you an instant!
 
 TOSCA
 (rising with great contempt)
-Go! Go! You fill me with loathing!
+Go! Go! You repulse me!
 
 (A knock at the door)
 
@@ -2144,7 +2144,7 @@ FIRST SCENE
 <img:https://images.unsplash.com/photo-1674511470738-883b72bd0225?q=80&w=2676&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D|Castel Sant'Angelo>
 
 VOICE OF A SHEPHERD
-[[Of sighs|The shepherd's song in Roman vernacular, along with the morning bells, evokes an idyllic image of the common people of Rome awakening]],
+[[Of sighs|The shepherd's song in Roman vernacular, along with the morning bells, evokes an idyllic image of the common people of Rome awakening. The lines are from a poem by Luigi Zanazzo]],
 I give you as many
 As the leaves
 Stirred by the winds.
@@ -2179,7 +2179,7 @@ One dear person. Allow me
 To write her a few lines.
 (taking a ring from his finger)
 This ring is all that remains
-Of my possessions!
+Of my possessions!...
 If you will promise to give her
 My last farewell,
 Then it is yours...
@@ -2202,7 +2202,7 @@ Delivered her beautiful form from the veils!
 Vanished forever is my dream of love,
 The hour has fled,
 And I die in despair!
-And [[never have I loved life so much|Love here means longing, not enjoyment in the present moment.]]!
+And [[never have I loved life so much|Love here means longing, not enjoyment in the present moment.]]!...
 (bursts into sobs, covering his face with his hands. Spoletta enters from the stairs, accompanied by the Sergeant and followed by Tosca; the Sergeant carries a lantern. Spoletta gestures to Tosca to show him where Cavaradossi is, then summons the Jailer; he goes back down with him and the Sergeant, but not before ordering a sentry stationed at the far end to keep watch over the prisoner.)
 
 THIRD SCENE
@@ -2251,12 +2251,12 @@ And came to claim the horrible embrace...
 That blade I planted in his heart.
 
 CAVARADOSSI
-You?!... by your own hand killed him? - You, pious,
+You?!... by your own hand killed him? - You pious,
 You benign, - and for me!
 
 TOSCA
 My hands were 
-filthy with his blood!
+all filthy with his blood!
 
 CAVARADOSSI
 (lovingly taking her hands in his)
