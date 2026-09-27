@@ -554,7 +554,7 @@ To save me from the wicked Scarpia!
 
 CAVARADOSSI
 Scarpia?! That bigoted [[satyr|Denotes rough and uncouth manners as well as morbid lust]] who hones
-Libertine [[frenzy|In particular related to lust]]
+his [[libertine frenzy|Lust]]
 with practices of devotion
 and for his wanton appetites
 (with growing force)
@@ -629,8 +629,8 @@ SACRISTAN
 (enters running, frenzied, shouting:)
 Immense joy, Excellency!...
 (looks towards the scaffold, and is surprised that once again the painter is not there)
-He's gone! That pains me!...
-He who aggrieves a misbeliever
+He's gone! How regrettable!...
+One who aggrieves a misbeliever
 Earns an indulgence!
 (Priests, pupils and singers of the Chapel. All enter tumultuously from every direction)
 The whole choir is here!
@@ -977,7 +977,7 @@ TOSCA
 Where are they? If only
 I could catch them, the traitors!
 (growing increasingly furious)
-Oh, what a suspicion!
+Oh, what suspicion!
 That villa is a haven
 for duplicitous loves!
 (with immense anguish)
@@ -993,12 +993,12 @@ SCARPIA
 In church!
 
 TOSCA
-God will pardon me... He sees me weeping!
+God will forgive me... He sees that I am weeping!
 (weeps bitterly; Scarpia supports her as he leads her to the exit, feigning reassurance. As soon as Tosca has left, the church gradually fills with people. The crowd gathers at the back, awaiting the Cardinal; some are kneeling in prayer.)
 
 SCARPIA
 (after escorting Tosca, he returns to the column and makes a signal; Spoletta immediately appears)
-Three cops... a carriage... 
+[[Three cops... a carriage...|The act's final aria begins, first subdued, with a slow crescendo as Scarpia declared his intentions, culminating in the Te Deum.]]
 Quick!... follow her
 Wherever she goes!... Unseen!... Take care of it!
 
@@ -1009,7 +1009,7 @@ SCARPIA
 Palazzo Farnese!
 (Spoletta quickly sets off with three cops, wearing a sardonic smile)
 Go, Tosca! Scarpia digs a [[nest|See the reference to her nest ("nido") Tosca made above]] within your heart!
-It is Scarpia who looses in flight
+It is Scarpia who looses into flight
 The falcon of your jealousy.
 What promise lies in your ready suspicion!
 
@@ -1041,7 +1041,7 @@ Te Deum laudamus,
 
 SCARPIA
 (as though awakening him from a dream)
-[[Tosca, you make me forget God|Climax of the aria]]!
+[[Tosca, you make me forget God|Climax of the aria, in stark juxtaposition with the chorus]]!
 (he kneels and prays devoutly)
 
 CHORUS, CHORUS
@@ -1201,7 +1201,7 @@ traversing spaces, traversing heavens,
 to arrive to you, oh king of kings.
 
 SCARPIA
-So Tossca came back - she is down there below him...
+So Tossca came back - she is down there beneath him...
 (he has an idea and quickly tells Spoletta:)
 Bring in the Cavalier.
 (Exit Spoletta. To Sciarrone:)
@@ -1271,7 +1271,7 @@ I deny. What evidence?
 
 SCARPIA
 (melliflously)
-A faithful servant...
+A loyal subject...
 
 CAVARADOSSI
 Get to the facts! Who is my accuser? 
@@ -1305,7 +1305,7 @@ CAVARADOSSI
 I don't know.
 
 SCARPIA
-You deny gaving him food?
+You deny giving him food?
 
 CAVARADOSSI
 I deny it.
