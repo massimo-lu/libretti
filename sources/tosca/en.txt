@@ -2144,7 +2144,7 @@ FIRST SCENE
 <img:https://images.unsplash.com/photo-1674511470738-883b72bd0225?q=80&w=2676&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D|Castel Sant'Angelo>
 
 VOICE OF A SHEPHERD
-[[Of sighs|The shepherd's song in Roman vernacular, along with the morning bells, evokes an idyllic image of the common people of Rome awakening. The lines are from a poem by Luigi Zanazzo]],
+[[Of sighs|The young shepherd's song in Roman vernacular, along with the morning bells, evokes an idyllic image of the common people of Rome awakening. The lines are from a poem by Luigi Zanazzo.]],
 I give you as many
 As the leaves
 Stirred by the winds.
@@ -2190,13 +2190,13 @@ Write...
 
 CAVARADOSSI
 (remains deep in thought, then begins to write... but after tracing a few lines, he is overcome by memories and stops writing, lost in thought.)
-And the stars were shining... 
+And the [[stars were shining|The images of nature at night are reminiscent of Tosca's love poem in act one.]]... 
 And the earth was perfumed...
 The gate to the garden creaked...
 And a footstep grazed the sand...
 Fragrant, she entered,
 And fell into my arms...
-Oh soft kisses, oh languid caresses,
+Oh sweet kisses, oh languid caresses,
 As I trembling
 Delivered her beautiful form from the veils!
 Vanished forever is my dream of love,
@@ -2266,7 +2266,7 @@ for caressing children, gathering roses,
 For praying, clasped, for relief from misfortune...
 Then it was in you, hardened by love,
 That justice placed her sacred weapons?
-You dealt death, victorious hands,
+[[You dealt death, oh victorious hands,|Scarpia's death theme can be heard in the music.]]
 Oh sweet hands pure and gentle!...
 
 TOSCA
@@ -2337,7 +2337,7 @@ TOSCA
 (surrenders herself, almost in ecstasy, then gradually becoming impassioned)
 United and exultant,
 we shall spread our love throughout the world,
-harmonies of colors...
+harmonies of colours...
 
 CAVARADOSSI
 (getting excited)
@@ -2345,11 +2345,11 @@ We shall spread harmonies of song!
 
 TOSCA and CAVARADOSSI
 (ecstatically)
-Triumphant, with new hope
+[[Triumphant, with new hope|The orchestra is silent for most of this triumphant poem.]]
 the soul quivers in growing
 heavenly ardour.
 And in harmonious flight
-The soul soars
+The soul already soars
 Towards the ecstasy of love.
 
 TOSCA
@@ -2404,8 +2404,8 @@ Like this.
 
 TOSCA
 How long is the wait!
-Why are they still delaying?... The sun already rises...
-Why are they still delaying?... It is only a farce,
+Why are they still delaying?... The sun is already rising...
+Why are they still delaying?... It is a farce,
 I know... but this anguish seems to last for ever!
 (l' Ufficiale e il Sergente dispongono il plotone dei soldati, impartendo gli ordini relativi)
 There!... They are taking aim!...
