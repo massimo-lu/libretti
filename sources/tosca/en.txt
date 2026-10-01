@@ -1184,7 +1184,7 @@ He is there.
 (Scarpia paces up and down, pondering; he stops abruptly; he hears, through the open window, the choral cantata being sung in the Queen's apartment.)
 
 TOSCA and CHORUS
-The song of humanity rises and ascends,
+[[The song of humanity rises and ascends|The holy music in the background while Scarpia interrogates Cavaradossi reproposes the same juxtaposition between holy and profane that we heard in the Te Deum. This time, the profane is political.]],
 traversing spaces, traversing heavens,
 through unknown [[empyrean suns|In Aristotelian cosmology, the highest sphere of the universe]],
 foretold by the gospels,
@@ -1366,7 +1366,7 @@ Of what you saw there, say nothing, else you kill me!
 
 SCARPIA
 (solemnly)
-Mario Cavaradossi,
+[[Mario Cavaradossi|Dramatic change in the music, which becomes much stronger. Scarpia is no longer speaking as a person, but as an institution.]],
 The judge awaits your testimony.
 (to Roberti)
 First, the usual formalities... Then... as I shall order...
@@ -1822,7 +1822,7 @@ Indeed — they call me venal, but to a beautiful woman
 (insinuatingly and pointedly)
 I do not sell myself for mere currency.
 If I must betray
-my sworn faith... I want different goods.
+my sworn faith... I want a different [[reward|"Mercede" means reward or pay, but it also evokes "merce" i.e. goods - the reward is physical.]].
 I have waited for this hour!
 Already in the past I burned
 With passion for the Diva!
